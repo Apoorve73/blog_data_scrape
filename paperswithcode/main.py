@@ -1,9 +1,5 @@
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
 import time
 import json
 
@@ -18,17 +14,12 @@ def get_structure(path):
 	
 	base_url = 'https://paperswithcode.com/'
 
-	capa = DesiredCapabilities.CHROME
 	capa["pageLoadStrategy"] = "none"
 
-	driver = webdriver.Chrome(desired_capabilities=capa, executable_path=path, options=options)
+	driver = webdriver.Chrome(executable_path=path, options=options)
 	wait = WebDriverWait(driver, 30)
 
 	driver.get(base_url + 'sota')
-
-	wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'legal-links')))
-
-	driver.execute_script("window.stop();")
 	
 	time.sleep(5)
 
