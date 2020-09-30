@@ -6,8 +6,8 @@ What follows are some guidelines, and some steps, processes and resources you mi
 ![](https://media.tenor.com/images/10a989657c2abef28a0558efcdb5f947/tenor.gif)
 
 ### Links to Important Resources
-[README.md](https://github.com/Apoorve73/blog_data_scrape/blob/master/README.md) - The Read Me File for this repository
-You can find issues open to contribution here: [issues](https://github.com/Apoorve73/blog_data_scrape/issues)
+<p>[README.md](https://github.com/Apoorve73/blog_data_scrape/blob/master/README.md) - The Read Me File for this repository<p>
+<p>You can find issues open to contribution here: [issues](https://github.com/Apoorve73/blog_data_scrape/issues)<p>
 
 ### Environment Details
 Install the dependencies..
