@@ -1,7 +1,8 @@
 # Contributing
 ### Welcome!
-We're happy to have you here! It's great to see that you've taken some time today to contribute 👨‍💻!
-What follows are some guidelines, and some steps, processes and resources you might find useful.
+<p>We're happy to have you here! It's great to see that you've taken some time today to contribute 👨‍💻!
+What follows are some guidelines, and some steps, processes and resources you might find useful.<p>
+  
 ![](https://media.tenor.com/images/10a989657c2abef28a0558efcdb5f947/tenor.gif)
 
 ### Links to Important Resources
