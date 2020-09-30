@@ -1,13 +1,14 @@
 # Contributing
 ### Welcome!
-<p>We're happy to have you here! It's great to see that you've taken some time today to contribute 👨‍💻!
-What follows are some guidelines, and some steps, processes and resources you might find useful.<p>
+We're happy to have you here! It's great to see that you've taken some time today to contribute 👨‍💻!
+What follows are some guidelines, and some steps, processes and resources you might find useful.
   
 ![](https://media.tenor.com/images/10a989657c2abef28a0558efcdb5f947/tenor.gif)
 
 ### Links to Important Resources
-<p> [README.md](https://github.com/Apoorve73/blog_data_scrape/blob/master/README.md) - The Read Me File for this repository <p>
-<p> You can find issues open to contribution here: [issues](https://github.com/Apoorve73/blog_data_scrape/issues) <p>
+[README.md](https://github.com/Apoorve73/blog_data_scrape/blob/master/README.md) - The Read Me File for this repository.
+
+You can find issues open to contribution here: [issues](https://github.com/Apoorve73/blog_data_scrape/issues)
 
 ### Environment Details
 Install the dependencies..
