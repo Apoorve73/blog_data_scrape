@@ -14,7 +14,7 @@ def get_structure(path):
 	
 	base_url = 'https://paperswithcode.com/'
 
-	capa["pageLoadStrategy"] = "none"
+	# capa["pageLoadStrategy"] = "none"
 
 	driver = webdriver.Chrome(executable_path=path, options=options)
 	wait = WebDriverWait(driver, 30)
