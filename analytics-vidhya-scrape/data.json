@@ -1,1 +1,1444 @@
-{"blog_archive": [{"topic": "Using Predictive Power Score to Pinpoint Non-linear Correlations", "url": "https://www.analyticsvidhya.com/blog/2020/12/using-predictive-power-score-to-pinpoint-non-linear-correlations/"}, {"topic": "Top 14 Artificial Intelligence Startups to watch out for in 2021!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-ai-startups/"}, {"topic": "Exploratory Analysis Using SPSS, Power BI, R Studio, Excel & Orange", "url": "https://www.analyticsvidhya.com/blog/2020/12/exploratory-analysis-using-spss-power-bi-r-studio-excel-orange/"}, {"topic": "10 Most Popular Data Science Articles on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-data-science-articles-of-2020/"}, {"topic": "A Super Useful Month-by-Month Plan to Master Data Science in 2021", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-super-useful-month-by-month-plan-to-master-data-science-in-2021/"}, {"topic": "Top Highlights from 11 Powerful Machine Learning Conferences in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-ai-and-ml-conferences-of-2020/"}, {"topic": "Model Risk Management And the Role of Explainable Models(With Python Code)", "url": "https://www.analyticsvidhya.com/blog/2020/12/model-risk-management-and-the-role-of-explainable-modelswith-python-code/"}, {"topic": "A Quick Guide to Data science and Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-quick-guide-to-data-science-and-machine-learning/"}, {"topic": "Multilingualism in Natural Language Processing: Targeting Low Resource Indian Languages", "url": "https://www.analyticsvidhya.com/blog/2020/12/multilingual-languages-in-natural-language-processing-targeting-low-resource-indian-languages/"}, {"topic": "A Review of 2020 and Trends in 2021 \u2013 A Technical Overview of Machine Learning and Deep Learning!", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-review-of-2020-and-data-science-trends-in-2021-a-technical-overview-of-machine-learning-and-deep-learning/"}, {"topic": "Tutorial to data preparation for training machine learning model", "url": "https://www.analyticsvidhya.com/blog/2020/12/tutorial-to-data-preparation-for-training-machine-learning-model/"}, {"topic": "Statistics for Beginners: Power of \u201cPower Analysis\u201d", "url": "https://www.analyticsvidhya.com/blog/2020/12/statistics-for-beginners-power-of-power-analysis/"}, {"topic": "A Comprehensive Learning Path to Become a Data Scientist in 2021!", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-comprehensive-learning-path-to-become-a-data-scientist-in-2021/"}, {"topic": "Top Female AI Influencers in 2020 Who Rocked the Data Science World!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-female-ai-influencers-in-2020/"}, {"topic": "An end-to-end comprehensive guide for PCA", "url": "https://www.analyticsvidhya.com/blog/2020/12/an-end-to-end-comprehensive-guide-for-pca/"}, {"topic": "An Overview of Neural Approach on Pattern Recognition", "url": "https://www.analyticsvidhya.com/blog/2020/12/an-overview-of-neural-approach-on-pattern-recognition/"}, {"topic": "Decluttering the performance measures of classification models", "url": "https://www.analyticsvidhya.com/blog/2020/12/decluttering-the-performance-measures-of-classification-models/"}, {"topic": "Misguiding Deep Neural Networks: Generalized Pixel Attack", "url": "https://www.analyticsvidhya.com/blog/2020/12/misguiding-deep-neural-networks-generalized-pixel-attack/"}, {"topic": "Understand Machine Learning and Its End-to-End Process", "url": "https://www.analyticsvidhya.com/blog/2020/12/understand-machine-learning-and-its-end-to-end-process/"}, {"topic": "Top 15 Open-Source Datasets of 2020 that every Data Scientist Should add to their Portfolio!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/"}, {"topic": "Using Predictive Power Score to Pinpoint Non-linear Correlations", "url": "https://www.analyticsvidhya.com/blog/2020/12/using-predictive-power-score-to-pinpoint-non-linear-correlations/"}, {"topic": "Top 14 Artificial Intelligence Startups to watch out for in 2021!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-ai-startups/"}, {"topic": "Exploratory Analysis Using SPSS, Power BI, R Studio, Excel & Orange", "url": "https://www.analyticsvidhya.com/blog/2020/12/exploratory-analysis-using-spss-power-bi-r-studio-excel-orange/"}, {"topic": "10 Most Popular Data Science Articles on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-data-science-articles-of-2020/"}, {"topic": "Decluttering the performance measures of classification models", "url": "https://www.analyticsvidhya.com/blog/2020/12/decluttering-the-performance-measures-of-classification-models/"}, {"topic": "Misguiding Deep Neural Networks: Generalized Pixel Attack", "url": "https://www.analyticsvidhya.com/blog/2020/12/misguiding-deep-neural-networks-generalized-pixel-attack/"}, {"topic": "Understand Machine Learning and Its End-to-End Process", "url": "https://www.analyticsvidhya.com/blog/2020/12/understand-machine-learning-and-its-end-to-end-process/"}, {"topic": "Top 15 Open-Source Datasets of 2020 that every Data Scientist Should add to their Portfolio!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/"}, {"topic": "Streamlit Web API for NLP: Tweet Sentiment Analysis", "url": "https://www.analyticsvidhya.com/blog/2020/12/streamlit-web-api-for-nlp-tweet-sentiment-analysis/"}, {"topic": "Exploring the Tale of Music Through Data Visualization", "url": "https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/"}, {"topic": "Web Scraping Using Cypress Tool!", "url": "https://www.analyticsvidhya.com/blog/2020/12/web-scraping-using-cypress-tool/"}, {"topic": "Top 10 Data Science Webinars of 2020!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-10-data-science-webinars-recordings-of-2020/"}, {"topic": "All about Statistical Modeling", "url": "https://www.analyticsvidhya.com/blog/2020/12/all-about-statistical-modeling/"}, {"topic": "An Approach towards Neural Network based Image Clustering", "url": "https://www.analyticsvidhya.com/blog/2020/12/an-approach-towards-neural-network-based-image-clustering/"}, {"topic": "A Simple overview of Multilayer Perceptron(MLP)", "url": "https://www.analyticsvidhya.com/blog/2020/12/mlp-multilayer-perceptron-simple-overview/"}, {"topic": "Feature Engineering Using Pandas for Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/12/feature-engineering-using-pandas-for-beginners/"}, {"topic": "Big Data with Spark and Scala", "url": "https://www.analyticsvidhya.com/blog/2020/12/big-data-with-spark-and-scala/"}, {"topic": "Machine Learning Model \u2013 Serverless Deployment", "url": "https://www.analyticsvidhya.com/blog/2020/12/machine-learning-model-serverless-deployment/"}, {"topic": "9 Free Data Science Books to Read in 2021", "url": "https://www.analyticsvidhya.com/blog/2020/12/14-free-data-science-books-to-add-tour-list-in-2020-to-upgrade-your-data-science-journey/"}, {"topic": "Pattern Recognition: The basis of Human and Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/12/patterns-recognition-the-basis-of-human-and-machine-learning/"}, {"topic": "Understanding text classification in NLP with Movie Review Example Example", "url": "https://www.analyticsvidhya.com/blog/2020/12/understanding-text-classification-in-nlp-with-movie-review-example-example/"}, {"topic": "Top 15 Free Data Science Courses to Kick Start your Data Science Journey!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-15-free-data-science-courses-to-kick-start-your-data-science-journey/"}, {"topic": "Microsoft Azure Cognitive Services \u2013 API for AI Development", "url": "https://www.analyticsvidhya.com/blog/2020/12/microsoft-azure-cognitive-services-api-for-ai-development/"}, {"topic": "Spilling the Beans on Visualizing Distribution", "url": "https://www.analyticsvidhya.com/blog/2020/12/spilling-the-beans-on-visualizing-distribution/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster and Rank #21 Agnis Liukis", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmaster-series-exclusive-interview-with-competitions-grandmaster-and-rank-21-agnis-liukis/"}, {"topic": "A Brief Introduction to Survival Analysis and Kaplan Meier Estimator", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-brief-introduction-to-survival-analysis-and-kaplan-meier-estimator/"}, {"topic": "Out-of-Bag (OOB) Score in the Random Forest Algorithm", "url": "https://www.analyticsvidhya.com/blog/2020/12/out-of-bag-oob-score-in-the-random-forest-algorithm/"}, {"topic": "An Academic Overview of Markov Chain", "url": "https://www.analyticsvidhya.com/blog/2020/12/an-academic-overview-of-markov-chain/"}, {"topic": "Predicting using Linear Regression in R", "url": "https://www.analyticsvidhya.com/blog/2020/12/predicting-using-linear-regression-in-r/"}, {"topic": "What I did when I had to work with unstructured data?", "url": "https://www.analyticsvidhya.com/blog/2020/12/what-i-did-when-i-had-to-work-with-unstructured-data/"}, {"topic": "Kaggle Grandmaster Series \u2013 Notebooks Grandmaster and Rank #2 Dan Becker\u2019s Data Science Journey!", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmaster-series-notebooks-grandmaster-and-rank-2-dan-beckers-data-science-journey/"}, {"topic": "Top 8 Low code/No code ML Libraries every Data Scientist should know", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-8-low-code-no-code-ml-libraries-every-data-scientist-should-know/"}, {"topic": "Feature Engineering (Feature Improvements \u2013 Scaling)", "url": "https://www.analyticsvidhya.com/blog/2020/12/feature-engineering-feature-improvements-scaling/"}, {"topic": "Web Scraping Iron_Man Using Selenium in Python", "url": "https://www.analyticsvidhya.com/blog/2020/12/web-scraping-iron_man-using-selenium-in-python/"}, {"topic": "10 Resources to Successfully navigate a career in Data Science!", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-resources-to-successfully-navigate-a-career-in-data-science/"}, {"topic": "Deploying machine learning models using Streamlit \u2013 An introductory guide to Model Deployment", "url": "https://www.analyticsvidhya.com/blog/2020/12/deploying-machine-learning-models-using-streamlit-an-introductory-guide-to-model-deployment/"}, {"topic": "Hands-On Tutorial on Stack Overflow Question Tagging", "url": "https://www.analyticsvidhya.com/blog/2020/12/hands-on-tutorial-on-stack-overflow-question-tagging/"}, {"topic": "Training StyleGAN using Transfer learning on a custom dataset in google colaboratory", "url": "https://www.analyticsvidhya.com/blog/2020/12/training-stylegan-using-transfer-learning-on-a-custom-dataset-in-google-colaboratory/"}, {"topic": "A Quick Guide to Become a Data Analyst", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-quick-guide-to-become-a-data-analyst/"}, {"topic": "The Key Concepts To Investigating Your Dataset", "url": "https://www.analyticsvidhya.com/blog/2020/12/the-key-concepts-to-investigate-your-dataset/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Andrey Lukyanenko (Notebooks and Discussions Grandmaster)", "url": "https://www.analyticsvidhya.com/blog/2020/12/exclusive-interview-with-andrey-lukyanenko/"}, {"topic": "Control the Mouse with your Head Pose using Deep Learning with Google Teachable Machine", "url": "https://www.analyticsvidhya.com/blog/2020/12/deep-learning-with-google-teachable-machine/"}, {"topic": "Quick Guide To Perform Hypothesis Testing", "url": "https://www.analyticsvidhya.com/blog/2020/12/quick-guide-to-perform-hypothesis-testing/"}, {"topic": "Kaggle Grandmaster Series \u2013 Notebooks Grandmaster and Rank #12 Martin Henze\u2019s Mind Blowing Journey!", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmaster-series-notebooks-grandmaster-and-rank-12-martin-henzes-mind-blowing-journey/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "9 Must-Have Skills to Become a Data Engineer!", "url": "https://www.analyticsvidhya.com/blog/2020/12/9-must-have-skills-to-become-a-data-engineer/"}, {"topic": "Integrate R, Tableau and Excel", "url": "https://www.analyticsvidhya.com/blog/2020/12/integrate-r-tableau-and-excel/"}, {"topic": "Lets Open the Black Box of Random Forests", "url": "https://www.analyticsvidhya.com/blog/2020/12/lets-open-the-black-box-of-random-forests/"}, {"topic": "These 7 Signs Show you have Data Scientist Potential!", "url": "https://www.analyticsvidhya.com/blog/2020/12/these-7-signs-show-you-have-data-scientist-potential/"}, {"topic": "Improve your Predictive Model\u2019s Score using a Stacking Regressor", "url": "https://www.analyticsvidhya.com/blog/2020/12/improve-predictive-model-score-stacking-regressor/"}, {"topic": "A Detailed Introduction to K-means Clustering in Python!", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-detailed-introduction-to-k-means-clustering-in-python/"}, {"topic": "Window Functions \u2013 A Must-Know Topic for Data Engineers and Data Scientists", "url": "https://www.analyticsvidhya.com/blog/2020/12/window-function-a-must-know-sql-concept/"}, {"topic": "How to accelerate Data Science job search in 2021", "url": "https://www.analyticsvidhya.com/blog/2020/12/how-to-accelerate-data-science-job-search-in-2021/"}, {"topic": "Tired of Reading Long Articles? Text Summarization will make your task easier!", "url": "https://www.analyticsvidhya.com/blog/2020/12/tired-of-reading-long-articles-text-summarization-will-make-your-task-easier/"}, {"topic": "Analysis of Brazilian E-commerce Text Review Dataset Using NLP and Google Translate", "url": "https://www.analyticsvidhya.com/blog/2020/12/analysis-of-brazilian-e-commerce-text-review-dataset-using-nlp-and-google-translate/"}, {"topic": "A Measure of Bias and Variance \u2013 An Experiment", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-measure-of-bias-and-variance-an-experiment/"}, {"topic": "Use of Machine Learning in Dairy farming", "url": "https://www.analyticsvidhya.com/blog/2020/12/use-of-machine-learning-in-dairy-farming/"}, {"topic": "15 Basic And Highly Used Hive Queries that All Data Engineers Must know", "url": "https://www.analyticsvidhya.com/blog/2020/12/15-basic-and-highly-used-hive-queries-that-all-data-engineers-must-know/"}, {"topic": "A Case Study To Detect Anomalies In Time Series Using Anomalize Package In R", "url": "https://www.analyticsvidhya.com/blog/2020/12/a-case-study-to-detect-anomalies-in-time-series-using-anomalize-package-in-r/"}, {"topic": "Beginners Take: How Logistic Regression is related to Linear Regression", "url": "https://www.analyticsvidhya.com/blog/2020/12/beginners-take-how-logistic-regression-is-related-to-linear-regression/"}, {"topic": "Accuracy and its shortcomings: Precision, Recall to the rescue", "url": "https://www.analyticsvidhya.com/blog/2020/12/accuracy-and-its-shortcomings-precision-recall-to-the-rescue/"}, {"topic": "How can you Master Data Science without a Degree in 2020?", "url": "https://www.analyticsvidhya.com/blog/2020/11/how-can-you-master-data-science-without-a-degree-in-2020/"}, {"topic": "Popular Classification Models for Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/"}, {"topic": "Beginners Guide to Manipulating SQL from Python", "url": "https://www.analyticsvidhya.com/blog/2020/11/manipulating-sql-from-python/"}, {"topic": "Interpreting P-Value and R Squared Score on Real-Time Data \u2013 Statistical Data Exploration", "url": "https://www.analyticsvidhya.com/blog/2020/11/interpreting-p-value-and-r-squared-score-on-real-time-data-statistical-data-exploration/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "Nervous about your first data science project! Here are 6 easy steps to get started!", "url": "https://www.analyticsvidhya.com/blog/2020/11/nervous-about-your-first-data-science-project-here-are-6-easy-steps-to-get-started/"}, {"topic": "Stock Market Price Trend Prediction Using Time Series Forecasting", "url": "https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/"}, {"topic": "Exploring Linear Regression with H20 AutoML(Automated Machine Learning)", "url": "https://www.analyticsvidhya.com/blog/2020/11/exploring-linear-regression-with-h20-automlautomated-machine-learning/"}, {"topic": "Getting to Grips with Reinforcement Learning via Markov Decision Process", "url": "https://www.analyticsvidhya.com/blog/2020/11/reinforcement-learning-markov-decision-process/"}, {"topic": "Understanding Na\u00efve Bayes and Support Vector Machine and their implementation in Python", "url": "https://www.analyticsvidhya.com/blog/2020/11/understanding-naive-bayes-svm-and-its-implementation-on-spam-sms/"}, {"topic": "Data Exploration with the dtale Library in Python", "url": "https://www.analyticsvidhya.com/blog/2020/11/data-exploration-dtale/"}, {"topic": "The Key Concept of Scrum in Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/11/the-key-concept-of-scrum-in-machine-learning/"}, {"topic": "Kaggle Grandmaster Series \u2013 Competitions Grandmaster and Rank #9 Dmitry Gordeev\u2019s Phenomenal Journey!", "url": "https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-dmitry-gordeev/"}, {"topic": "A Quick Guide to Text Cleaning Using the nltk Library", "url": "https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/"}, {"topic": "Creating a Callback to Send Notifications on WhatsApp in Keras and TensorFlow", "url": "https://www.analyticsvidhya.com/blog/2020/11/creating-a-callback-to-send-notifications-on-whatsapp-in-keras-and-tensorflow/"}, {"topic": "Extending the ImageDataGenerator in Keras and TensorFlow", "url": "https://www.analyticsvidhya.com/blog/2020/11/extending-the-imagedatagenerator-keras-tensorflow/"}, {"topic": "8 Must Know Spark Optimization Tips for Data Engineering Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/11/8-must-know-spark-optimization-tips-for-data-engineering-beginners/"}, {"topic": "AutoML: Making AI more Accessible to Businesses", "url": "https://www.analyticsvidhya.com/blog/2020/11/automl-making-ai-more-accessible-to-businesses/"}, {"topic": "How To Have a Career in Data Science (Business Analytics)?", "url": "https://www.analyticsvidhya.com/blog/2020/11/how-to-have-a-career-in-data-science-business-analytics/"}, {"topic": "Deployment of ML models in Cloud \u2013 AWS SageMaker\u200a(in-built algorithms)", "url": "https://www.analyticsvidhya.com/blog/2020/11/deployment-of-ml-models-in-cloud-aws-sagemaker%e2%80%8ain-built-algorithms/"}, {"topic": "Words that matter! A Simple Guide to Keyword Extraction in Python", "url": "https://www.analyticsvidhya.com/blog/2020/11/words-that-matter-a-simple-guide-to-keyword-extraction-in-python/"}, {"topic": "What is Big Data? A Quick Introduction for Analytics and Data Engineering Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/11/what-is-big-data-a-quick-introduction-for-analytics-and-data-engineering-beginners/"}, {"topic": "Creating Linear Model, It\u2019s Equation and Visualization for Analysis", "url": "https://www.analyticsvidhya.com/blog/2020/11/creating-linear-model-its-equation-and-visualization-for-analysis/"}, {"topic": "Classification Model Simulator Application Using Dash in Python", "url": "https://www.analyticsvidhya.com/blog/2020/11/classification-model-simulator-application-using-dash-in-python/"}, {"topic": "FastAPI: The Right Replacement For Flask?", "url": "https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "Should I become a data scientist (or a business analyst)?", "url": "https://www.analyticsvidhya.com/blog/2020/11/become-data-scientist-business-analyst/"}, {"topic": "Data Engineering 101 \u2013 Getting Started with Python Operator in Apache Airflow", "url": "https://www.analyticsvidhya.com/blog/2020/11/data-engineering-101-getting-started-with-python-operator-in-apache-airflow/"}, {"topic": "REINFORCE Algorithm: Taking baby steps in reinforcement learning", "url": "https://www.analyticsvidhya.com/blog/2020/11/reinforce-algorithm-taking-baby-steps-in-reinforcement-learning/"}, {"topic": "A Tour of Evaluation Metrics for Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/11/a-tour-of-evaluation-metrics-for-machine-learning/"}, {"topic": "MLOps \u2013 the Why and the What", "url": "https://www.analyticsvidhya.com/blog/2020/11/mlops-the-why-and-the-what/"}, {"topic": "Predicting Employee Attrition using Orange(.ows) Visual Programming Software", "url": "https://www.analyticsvidhya.com/blog/2020/11/predicting-employee-attrition-using-orange-ows-visual-programming-software/"}, {"topic": "Kaggle Grandmaster Series \u2013 Notebooks Grandmaster Mobassir Hossen\u2019s Journey from Software Engineer to Data Science", "url": "https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-exclusive-interview-with-kaggle-rank-44-and-notebooks-grandmaster-mobassir-hossen/"}, {"topic": "How to handle common Selenium Challenges Using Python?", "url": "https://www.analyticsvidhya.com/blog/2020/11/how-to-handle-common-selenium-challenges-using-python/"}, {"topic": "Tutorial \u2014 How to visualize Feature Maps directly from CNN layers", "url": "https://www.analyticsvidhya.com/blog/2020/11/tutorial-how-to-visualize-feature-maps-directly-from-cnn-layers/"}, {"topic": "Want to Build a Career in Data Science? Learn from these 5 Data Science Videos!", "url": "https://www.analyticsvidhya.com/blog/2020/11/want-to-build-a-career-in-data-science-learn-from-these-5-data-science-videos/"}, {"topic": "A Hands-on Tutorial to Learn Attention Mechanism For Image Caption Generation in Python", "url": "https://www.analyticsvidhya.com/blog/2020/11/attention-mechanism-for-caption-generation/"}, {"topic": "Exclusive Interview with 2x Kaggle Master Gilles Vandewiele!", "url": "https://www.analyticsvidhya.com/blog/2020/11/exclusive-interview-with-gilles-vandekaggle-grandmaster-series-exclusive-interview-with-kaggle-rank-147-and-competitions-master-gilles-vandewielewiele/"}, {"topic": "Data Engineering 101 \u2013 Getting Started with Apache Airflow", "url": "https://www.analyticsvidhya.com/blog/2020/11/getting-started-with-apache-airflow/"}, {"topic": "Top 13 Python Libraries Every Data science Aspirant Must know! (and their Resources)", "url": "https://www.analyticsvidhya.com/blog/2020/11/top-13-python-libraries-every-data-science-aspirant-must-know-and-their-resources/"}, {"topic": "A Beginner\u2019s Guide to Spark Streaming For Data Engineers", "url": "https://www.analyticsvidhya.com/blog/2020/11/introduction-to-spark-streaming-add-new-tag/"}, {"topic": "A Must-Read Guide on How to Work with PySpark on Google Colab for Data Scientists!", "url": "https://www.analyticsvidhya.com/blog/2020/11/a-must-read-guide-on-how-to-work-with-pyspark-on-google-colab-for-data-scientists/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Kaggle Rank #8 and Competitions Grandmaster Ahmet Erdem", "url": "https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-exclusive-interview-with-kaggle-rank-8-and-competitions-grandmaster-ahmet-erdem/"}, {"topic": "Introduction to Clustering in Python for Beginners in Data Science", "url": "https://www.analyticsvidhya.com/blog/2020/11/introduction-to-clustering-in-python-for-beginners-in-data-science/"}, {"topic": "8 Thoughts on How to Transition into Data Science from Different Backgrounds", "url": "https://www.analyticsvidhya.com/blog/2020/11/how-to-transition-data-science-different-backgrounds/"}, {"topic": "Fine-Grained Sentiment Analysis of Smartphone Review", "url": "https://www.analyticsvidhya.com/blog/2020/11/fine-grained-sentiment-analysis-of-smartphone-review/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "14 Must-Have Skills to Become a Data Scientist (with Resources!)", "url": "https://www.analyticsvidhya.com/blog/2020/11/14-must-have-skills-to-become-a-data-scientist-with-resources/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with 2x Kaggle Grandmaster Firat Gonen", "url": "https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-exclusive-interview-with-2x-kaggle-grandmaster-firat-gonen/"}, {"topic": "Data Engineering for Beginners \u2013 Partitioning vs Bucketing in Apache Hive", "url": "https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-partitioning-vs-bucketing-in-apache-hive/"}, {"topic": "Deep Unsupervised Learning in Energy Sector \u2013 Autoencoders in Action", "url": "https://www.analyticsvidhya.com/blog/2020/11/deep-unsupervised-learning-in-energy-sector-autoencoders-in-action/"}, {"topic": "Introduction to Spark MLlib for Big Data and Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/11/introduction-to-spark-mllib-for-big-data-and-machine-learning/"}, {"topic": "Baseline for Policy Gradients that All Deep Learning Enthusists Must Know", "url": "https://www.analyticsvidhya.com/blog/2020/11/baseline-for-policy-gradients/"}, {"topic": "A Guide to Data Types in MySQL for Data Science Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/11/guide-data-types-mysql-data-science-beginners/"}, {"topic": "Text Mining Simplified \u2013 IPL 2020 Tweet Analysis with R", "url": "https://www.analyticsvidhya.com/blog/2020/11/text-mining-simplified-ipl-2020-tweet-analysis-with-r/"}, {"topic": "Demystifying Model Interpretation using ELI5", "url": "https://www.analyticsvidhya.com/blog/2020/11/demystifying-model-interpretation-using-eli5/"}, {"topic": "Generate Carnatic Music with Google Magenta", "url": "https://www.analyticsvidhya.com/blog/2020/11/generate-carnatic-music-with-google-magenta/"}, {"topic": "Data Engineering for Beginners \u2013 Difference Between OLTP and OLAP", "url": "https://www.analyticsvidhya.com/blog/2020/11/oltp-vs-olap/"}, {"topic": "Binary Cross Entropy aka Log Loss-The cost function used in Logistic Regression", "url": "https://www.analyticsvidhya.com/blog/2020/11/binary-cross-entropy-aka-log-loss-the-cost-function-used-in-logistic-regression/"}, {"topic": "Create a Pipeline to Perform Sentiment Analysis using NLP", "url": "https://www.analyticsvidhya.com/blog/2020/11/create-a-pipeline-to-perform-sentiment-analysis-using-nlp/"}, {"topic": "Entropy \u2013 A Key Concept for All Data Science Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/11/entropy-a-key-concept-for-all-data-science-beginners/"}, {"topic": "Create Your Own Movie Movie Recommendation System", "url": "https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/"}, {"topic": "Computer Vision: A Key Concept to Solve Many Problems Related to Image Data", "url": "https://www.analyticsvidhya.com/blog/2020/11/computer-vision-a-key-concept-to-solve-many-problems-related-to-image-data/"}, {"topic": "An Efficient way of performing EDA- Hypothesis Generation", "url": "https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation/"}, {"topic": "Writing a CSV File with Scala and Using it to Create a Machine Learning Model", "url": "https://www.analyticsvidhya.com/blog/2020/11/writing-a-csv-file-with-scala-and-using-it-to-create-a-machine-learning-model/"}, {"topic": "How to Download, Install and Use Nvidia GPU for Training Deep Neural Networks by TensorFlow on Windows Seamlessly", "url": "https://www.analyticsvidhya.com/blog/2020/11/how-to-download-install-and-use-nvidia-gpu-for-tensorflow-on-windows/"}, {"topic": "Handling Imbalanced Data \u2013 Machine Learning, Computer Vision and NLP", "url": "https://www.analyticsvidhya.com/blog/2020/11/handling-imbalanced-data-machine-learning-computer-vision-and-nlp/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "A Short Intuitive Explanation of Convolutional Recurrent Neural Networks", "url": "https://www.analyticsvidhya.com/blog/2020/11/a-short-intuitive-explanation-of-convolutional-recurrent-neural-networks/"}, {"topic": "Big Data to Small Data \u2013 Welcome to the World of Reservoir Sampling", "url": "https://www.analyticsvidhya.com/blog/2020/11/big-data-to-small-data-welcome-to-the-world-of-reservoir-sampling/"}, {"topic": "A Comprehensive Step-by-Step Guide to Become an Industry-Ready Data Science Professional", "url": "https://www.analyticsvidhya.com/blog/2020/11/comprehensive-guide-data-science-professional/"}, {"topic": "Data Engineering for Beginners \u2013 Get Acquainted with the Spark Architecture", "url": "https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-get-acquainted-with-the-spark-architecture/"}, {"topic": "Hyperparameter Tuning using Optuna", "url": "https://www.analyticsvidhya.com/blog/2020/11/hyperparameter-tuning-using-optuna/"}, {"topic": "Summarize Twitter Live data using Pretrained NLP models", "url": "https://www.analyticsvidhya.com/blog/2020/11/summarize-twitter-live-data-using-pretrained-nlp-models/"}, {"topic": "RDDs vs. Dataframes vs. Datasets \u2013 What is the Difference and Why Should Data Engineers Care?", "url": "https://www.analyticsvidhya.com/blog/2020/11/what-is-the-difference-between-rdds-dataframes-and-datasets/"}, {"topic": "Lasso Regression causes sparsity while Ridge Regression doesn\u2019t! \u2013 Unfolding the math", "url": "https://www.analyticsvidhya.com/blog/2020/11/lasso-regression-causes-sparsity-while-ridge-regression-doesnt-unfolding-the-math/"}, {"topic": "12 Essential Tips for People starting a Career in Data Science", "url": "https://www.analyticsvidhya.com/blog/2020/11/tips-people-starting-career-data-science/"}, {"topic": "Artificial Intelligence in Agriculture : Using Modern Day AI to Solve Traditional Farming Problems", "url": "https://www.analyticsvidhya.com/blog/2020/11/artificial-intelligence-in-agriculture-using-modern-day-ai-to-solve-traditional-farming-problems/"}, {"topic": "Create your Own Image Caption Generator using Keras!", "url": "https://www.analyticsvidhya.com/blog/2020/11/create-your-own-image-caption-generator-using-keras/"}, {"topic": "Top 5 Statistical Concepts Every Data Scientist Should Know in 2020!", "url": "https://www.analyticsvidhya.com/blog/2020/11/top-5-favorite-statistical-concepts/"}, {"topic": "Methods in Python \u2013 A Key Concept of Object Oriented Programming", "url": "https://www.analyticsvidhya.com/blog/2020/11/basic-concepts-object-oriented-programming-types-methods-python/"}, {"topic": "Basic Introduction to Google BigQuery and Data Studio Every Data Scientist Should Know!", "url": "https://www.analyticsvidhya.com/blog/2020/11/basic-introduction-to-google-bigquery-and-data-studio-every-data-scientist-should-know/"}, {"topic": "Build Your Own Desktop Voice Assistant in Python", "url": "https://www.analyticsvidhya.com/blog/2020/11/build-your-own-desktop-voice-assistant-in-python/"}, {"topic": "Apache Kafka: A Metaphorical Introduction to Event Streaming for Data Scientists and Data Engineers", "url": "https://www.analyticsvidhya.com/blog/2020/11/apache-kafka-introduction-to-event-streaming/"}, {"topic": "A Primer on Getting Started with Data Science for Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/11/a-primer-on-getting-started-with-data-science-for-beginners/"}, {"topic": "A Comprehensive Guide to Learn Data Exploration in Python!", "url": "https://www.analyticsvidhya.com/blog/2020/11/a-comprehensive-guide-to-learn-the-data-exploration-in-python/"}, {"topic": "Getting Started with Analytics: Data Challenges", "url": "https://www.analyticsvidhya.com/blog/2020/11/getting-started-with-analytics-data-challenges/"}, {"topic": "Employee Attrition Analysis using Logistic Regression with R", "url": "https://www.analyticsvidhya.com/blog/2020/11/employee-attrition-analysis-using-logistic-regression-with-r/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "How Can You Build a Career in Data Science and Machine Learning?", "url": "https://www.analyticsvidhya.com/blog/2020/11/how-can-you-build-a-career-in-data-science-machine-learning/"}, {"topic": "Simple Text Multi Classification Task Using Keras BERT", "url": "https://www.analyticsvidhya.com/blog/2020/10/simple-text-multi-classification-task-using-keras-bert/"}, {"topic": "How to Use Stacking to Choose the Best Possible Algorithm?", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-to-use-stacking-to-choose-the-best-possible-algorithm/"}, {"topic": "Linear Regression for Absolute Beginners with Implementation in Python!", "url": "https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/"}, {"topic": "A Comprehensive List of the Different Python Data Types", "url": "https://www.analyticsvidhya.com/blog/2020/10/python-data-types/"}, {"topic": "Do you need a Certification to become a Data Scientist? 5 Things you Should Consider", "url": "https://www.analyticsvidhya.com/blog/2020/10/data-science-certification-need-5-things-consider/"}, {"topic": "Data Engineering 101 \u2013 Data Sources in Apache Spark Every Data Engineer Must Know!", "url": "https://www.analyticsvidhya.com/blog/2020/10/data-engineering-101-data-sources-apache-spark/"}, {"topic": "Reduce the Complexity of Your Data With Variable Clustering from Scratch Using SAS and Python!", "url": "https://www.analyticsvidhya.com/blog/2020/10/reduce-the-complexity-of-you-data-with-variable-clustering-from-scratch-using-sas-and-python/"}, {"topic": "A Definitive Guide for predicting Customer Lifetime Value (CLV)", "url": "https://www.analyticsvidhya.com/blog/2020/10/a-definitive-guide-for-predicting-customer-lifetime-value-clv/"}, {"topic": "NLP Applications in Support Call Centers", "url": "https://www.analyticsvidhya.com/blog/2020/10/nlp-applications-in-support-call-centers/"}, {"topic": "5 Popular Data Science Languages \u2013 Which One Should you Choose for your Career?", "url": "https://www.analyticsvidhya.com/blog/2020/10/5-popular-data-science-languages-career/"}, {"topic": "Multivariate Multi-step Time Series Forecasting using Stacked LSTM sequence to sequence Autoencoder in Tensorflow 2.0 / Keras", "url": "https://www.analyticsvidhya.com/blog/2020/10/multivariate-multi-step-time-series-forecasting-using-stacked-lstm-sequence-to-sequence-autoencoder-in-tensorflow-2-0-keras/"}, {"topic": "How to Create an ARIMA Model for Time Series Forecasting in Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-to-create-an-arima-model-for-time-series-forecasting-in-python/"}, {"topic": "Move to Online Dashboards \u2013 6 Things to remember before you choose a tool!", "url": "https://www.analyticsvidhya.com/blog/2020/10/move-to-online-dashboards-6-things-to-remember-before-you-choose-a-tool/"}, {"topic": "Mastering the Itertools Module in Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/mastering-the-itertools-module-in-python/"}, {"topic": "Predicting Stock Prices using Reinforcement Learning (with Python Code!)", "url": "https://www.analyticsvidhya.com/blog/2020/10/reinforcement-learning-stock-price-prediction/"}, {"topic": "Hadoop Distributed File System (HDFS) Architecture \u2013 A Guide to HDFS for Every Data Engineer", "url": "https://www.analyticsvidhya.com/blog/2020/10/hadoop-distributed-file-system-hdfs-architecture-a-guide-to-hdfs-for-every-data-engineer/"}, {"topic": "Getting Started with Apache Hive \u2013 A Must Know Tool For all Big Data and Data Engineering Professionals", "url": "https://www.analyticsvidhya.com/blog/2020/10/getting-started-with-apache-hive/"}, {"topic": "What is the Convolutional Neural Network Architecture?", "url": "https://www.analyticsvidhya.com/blog/2020/10/what-is-the-convolutional-neural-network-architecture/"}, {"topic": "Virtual Reality for the Web: A-Frame(Creating 3D models from Images)", "url": "https://www.analyticsvidhya.com/blog/2020/10/virtual-reality-for-the-web-a-framecreating-3d-models-from-images/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "Evaluating the Quality of Education in India using Unsupervised Machine Learning Technique", "url": "https://www.analyticsvidhya.com/blog/2020/10/evaluating-the-quality-of-education-in-india-using-clustering/"}, {"topic": "A/B Testing for Data Science using Python \u2013 A Must-Read Guide for Data Scientists", "url": "https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/"}, {"topic": "Web Scraping for Beginners \u2013 Web Scraping Using Node JS!", "url": "https://www.analyticsvidhya.com/blog/2020/10/web-scraping-using-node-js/"}, {"topic": "AdaBoost and Gradient Boost \u2013 Comparitive Study Between 2 Popular Ensemble Model Techniques", "url": "https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/"}, {"topic": "Beginners Guide to Web Scraping Using Selenium in Python!", "url": "https://www.analyticsvidhya.com/blog/2020/10/web-scraping-selenium-in-python/"}, {"topic": "How Can You Optimize your Spark Jobs and Attain Efficiency \u2013 Tips and Tricks!", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-can-you-optimize-your-spark-jobs-and-attain-efficiency-tips-and-tricks/"}, {"topic": "Inheritance in Object Oriented Programming for Python \u2013 An In-Depth Guide for Everyone", "url": "https://www.analyticsvidhya.com/blog/2020/10/inheritance-object-oriented-programming/"}, {"topic": "Sweet, spicy, North or South? : Indian Cuisine Analysis", "url": "https://www.analyticsvidhya.com/blog/2020/10/sweet-spicy-north-or-south-indian-cuisine-analysis/"}, {"topic": "Dimensionality Reduction using Factor Analysis in Python!", "url": "https://www.analyticsvidhya.com/blog/2020/10/dimensionality-reduction-using-factor-analysis-in-python/"}, {"topic": "Accumulated Local Effects (ALE) \u2013 Feature Effects Global Interpretability", "url": "https://www.analyticsvidhya.com/blog/2020/10/accumulated-local-effects-ale-feature-effects-global-interpretability/"}, {"topic": "Bet Wisely: Predicting the Scoreline of a Football Match using Poisson Distribution", "url": "https://www.analyticsvidhya.com/blog/2020/10/predicting-the-scoreline-of-a-football-match-using-poisson-distribution/"}, {"topic": "Unveiling the Black Box model using Explainable AI(Lime, Shap) Industry use case.", "url": "https://www.analyticsvidhya.com/blog/2020/10/unveiling-the-black-box-model-using-explainable-ai-lime-shap-industry-use-case/"}, {"topic": "A comprehensive guide to Feature Selection using Wrapper methods in Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/"}, {"topic": "Time Series Forecasting using Facebook Prophet library in Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/time-series-forecasting-using-facebook-prophet-library-in-python/"}, {"topic": "Introduction to the Hadoop Ecosystem for Big Data and Data Engineering", "url": "https://www.analyticsvidhya.com/blog/2020/10/introduction-hadoop-ecosystem/"}, {"topic": "Types of Tables in Apache Hive \u2013 A Quick Overview", "url": "https://www.analyticsvidhya.com/blog/2020/10/apache-hive-table-types/"}, {"topic": "The Mathematics Behind Support Vector Machine Algorithm (SVM)", "url": "https://www.analyticsvidhya.com/blog/2020/10/the-mathematics-behind-svm/"}, {"topic": "10 Questions Every Data Science Beginner Asks (with Answers and Resources)", "url": "https://www.analyticsvidhya.com/blog/2020/10/10-questions-asked-data-science-beginner/"}, {"topic": "Introduction and Implementation to Neural Style Transfer \u2013 Deep Learning", "url": "https://www.analyticsvidhya.com/blog/2020/10/introduction-and-implementation-to-neural-style-transfer-deep-learning/"}, {"topic": "Perform Regression Analysis with PyTorch Seamlessly!", "url": "https://www.analyticsvidhya.com/blog/2020/10/perform-regression-analysis-with-pytorch-seamlessly/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "What are the differences between Data Lake and Data Warehouse?", "url": "https://www.analyticsvidhya.com/blog/2020/10/what-is-the-difference-between-data-lake-and-data-warehouse/"}, {"topic": "Examining the Simple Linear Regression method for forecasting stock prices using Excel", "url": "https://www.analyticsvidhya.com/blog/2020/10/examining-the-simple-linear-regression-method-for-forecasting-stock-prices-using-excel/"}, {"topic": "Data Science Blogathon Winners are Here and Announcing Blogathon 2!", "url": "https://www.analyticsvidhya.com/blog/2020/10/data-science-blogathon-winners-announcing-blogathon-2/"}, {"topic": "8 Things you Absolutely Should Know Before Starting your Data Science Career", "url": "https://www.analyticsvidhya.com/blog/2020/10/8-things-data-science-career-know/"}, {"topic": "Generate Background Blur using Deep Learning in Python with this Simple Tutorial", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-to-get-background-blur-using-deep-learning/"}, {"topic": "SQL vs NoSQL Databases \u2013 A Key Concept Every Data Engineer Should Know", "url": "https://www.analyticsvidhya.com/blog/2020/10/sql-vs-nosql-databases-a-key-concept-every-data-engineer-should-know/"}, {"topic": "Create your Own Image Classification Model using Python and Keras", "url": "https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/"}, {"topic": "12 Powerful Tips to Ace Data Science and Machine Learning Hackathons", "url": "https://www.analyticsvidhya.com/blog/2020/10/12-powerful-tips-ace-data-science-hackathons/"}, {"topic": "Build an End to End Image Classification/Recognition Application", "url": "https://www.analyticsvidhya.com/blog/2020/10/building-an-end-to-end-image-classification-recognition-application/"}, {"topic": "The Power of Azure ML and Power BI: Dataflows and Model Deployment", "url": "https://www.analyticsvidhya.com/blog/2020/10/azure-ml-and-power-bi/"}, {"topic": "Step by Step Guide for Deploying a Django Application using Heroku for Free", "url": "https://www.analyticsvidhya.com/blog/2020/10/step-by-step-guide-for-deploying-a-django-application-using-heroku-for-free/"}, {"topic": "Getting Started with Analytics in your Organization: Think Big, Start Small", "url": "https://www.analyticsvidhya.com/blog/2020/10/getting-started-with-analytics-in-your-organization-think-big-start-small/"}, {"topic": "Big Announcement: 4 Free Certificate Courses in Data Science and Machine Learning by Analytics Vidhya!", "url": "https://www.analyticsvidhya.com/blog/2020/10/4-free-certificate-courses-data-science-machine-learning-analytics-vidhya/"}, {"topic": "Demystification of Logistic Regression", "url": "https://www.analyticsvidhya.com/blog/2020/10/demystification-of-logistic-regression/"}, {"topic": "Modernize Support Logs Using Simple Python Commands", "url": "https://www.analyticsvidhya.com/blog/2020/10/modernize-support-logs-using-simple-python-commands/"}, {"topic": "Sanitizing the Data \u2013 Merging Disparate Data Sources on Common Categories", "url": "https://www.analyticsvidhya.com/blog/2020/10/sanitizing-the-data-merging-disparate-data-sources-on-common-categories/"}, {"topic": "Elon Musk AI Text Generator with LSTMs in Tensorflow 2", "url": "https://www.analyticsvidhya.com/blog/2020/10/elon-musk-ai-text-generator-with-lstms-in-tensorflow-2/"}, {"topic": "Ultimate Beginner\u2019s Guide to Win Classification Hackathons with a Data Science Use Case", "url": "https://www.analyticsvidhya.com/blog/2020/10/ultimate-beginners-guide-to-win-classification-hackathons-with-a-data-science-use-case/"}, {"topic": "Create a Word Cloud or Tag Cloud in Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/word-cloud-or-tag-cloud-in-python/"}, {"topic": "Quick Guide to Evaluation Metrics for Supervised and Unsupervised Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/10/quick-guide-to-evaluation-metrics-for-supervised-and-unsupervised-machine-learning/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "What does not get discussed about analysis: Chaos to order", "url": "https://www.analyticsvidhya.com/blog/2020/10/what-does-not-get-discussed-about-analysis-chaos-to-order/"}, {"topic": "How to Choose Evaluation Metrics for Classification Models", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-to-choose-evaluation-metrics-for-classification-model/"}, {"topic": "The Clever Ingredient that decides the rise and the fall of your Machine Learning Model- Exploratory Data Analysis", "url": "https://www.analyticsvidhya.com/blog/2020/10/the-clever-ingredient-that-decide-the-rise-and-the-fall-of-your-machine-learning-model-exploratory-data-analysis/"}, {"topic": "Python 3.9 is out! Explore 7 Exciting Python 3.9 Features That You Should Know", "url": "https://www.analyticsvidhya.com/blog/2020/10/7-exciting-python-3-9-feature-to-know/"}, {"topic": "Feature Selection Techniques in Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/"}, {"topic": "The Complete Guide to Checking Account Churn Prediction in BFSI Domain", "url": "https://www.analyticsvidhya.com/blog/2020/10/the-complete-guide-to-checking-account-churn-prediction-in-bfsi-domain/"}, {"topic": "Introduction to Logistic Regression \u2013 The Most Common Classification Algorithm", "url": "https://www.analyticsvidhya.com/blog/2020/10/introduction-to-logistic-regression-the-most-common-classification-algorithm/"}, {"topic": "Transferable Skills for Building Data Application", "url": "https://www.analyticsvidhya.com/blog/2020/10/transferable-skills-for-building-data-application/"}, {"topic": "35 Classic Excel Hacks, Tips and Tricks for Analytics Professionals on Excel\u2019s 35th Birthday!", "url": "https://www.analyticsvidhya.com/blog/2020/10/35-classic-excel-hacks-tips-and-tricks-for-analytics-professionals-on-excels-35th-birthday/"}, {"topic": "Create Interactive Dashboards with Streamlit and Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/create-interactive-dashboards-with-streamlit-and-python/"}, {"topic": "Welcome to Pywedge \u2013 A Fast Guide to Preprocess and Build Baseline Models", "url": "https://www.analyticsvidhya.com/blog/2020/10/welcome-to-pywedge-a-fast-guide-to-preprocess-and-build-baseline-models/"}, {"topic": "Complete R Tutorial To Build Probabilistic Graphical Models!", "url": "https://www.analyticsvidhya.com/blog/2020/10/complete-r-tutorial-to-build-probabilistic-graphical-models/"}, {"topic": "How to Deploy Machine Learning models in Azure Cloud with the help of Python and Flask?", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-to-deploy-machine-learning-models-in-azure-cloud-with-the-help-of-python-and-flask/"}, {"topic": "Develop and Deploy an Image Classifier App Using Fastai", "url": "https://www.analyticsvidhya.com/blog/2020/10/develop-and-deploy-an-image-classifier-app-using-fastai/"}, {"topic": "Recurrent Neural Networks for Sequence Learning", "url": "https://www.analyticsvidhya.com/blog/2020/10/recurrent-neural-networks-for-sequence-learning/"}, {"topic": "Exploratory Data Analysis \u2013 The Go-To Technique to Explore Your Data!", "url": "https://www.analyticsvidhya.com/blog/2020/10/exploratory-data-analysis-the-go-to-technique-to-explore-your-data/"}, {"topic": "Boost Model Accuracy of Imbalanced COVID-19 Mortality Prediction Using GAN-based Oversampling Technique", "url": "https://www.analyticsvidhya.com/blog/2020/10/lets-improve-the-model-accuracy-of-imbalanced-covid-19-mortality-prediction-using-generative-adversarial-networks-gan-based-oversampling-technique/"}, {"topic": "Getting Started with Feature Engineering", "url": "https://www.analyticsvidhya.com/blog/2020/10/getting-started-with-feature-engineering/"}, {"topic": "Boxing and Unboxing of Statistical Models with Gaussian Learning", "url": "https://www.analyticsvidhya.com/blog/2020/10/boxing-and-unboxing-of-statistical-models-with-gaussian-learning/"}, {"topic": "All About Decision Tree from Scratch with Python Implementation", "url": "https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "Using Predictive Power Score to Pinpoint Non-linear Correlations", "url": "https://www.analyticsvidhya.com/blog/2020/12/using-predictive-power-score-to-pinpoint-non-linear-correlations/"}, {"topic": "Top 14 Artificial Intelligence Startups to watch out for in 2021!", "url": "https://www.analyticsvidhya.com/blog/2020/12/top-ai-startups/"}, {"topic": "Boxing and Unboxing of Statistical Models with Gaussian Learning", "url": "https://www.analyticsvidhya.com/blog/2020/10/boxing-and-unboxing-of-statistical-models-with-gaussian-learning/"}, {"topic": "All About Decision Tree from Scratch with Python Implementation", "url": "https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/"}, {"topic": "Bajaj Finance Stock Price Prediction in Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/bajaj-finance-stock-price-prediction-time-series/"}, {"topic": "A Quick Guide to Descriptive Statistical Analysis \u2013 The First Step in Exploring your Data", "url": "https://www.analyticsvidhya.com/blog/2020/10/a-quick-guide-to-descriptive-statistics-the-first-step-in-exploring-your-data/"}, {"topic": "How to Improve Class Imbalance using Class Weights in Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/"}, {"topic": "Overcoming Class Imbalance using SMOTE Techniques", "url": "https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/"}, {"topic": "A Hands-On Guide to Building a Visual Similarity-Based Recommendation System using Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/visual-similarity-based-recommendations-python/"}, {"topic": "Data Science- The Go-To Tool for Solving Daily Problems and Taking Better Decisions", "url": "https://www.analyticsvidhya.com/blog/2020/10/data-science-the-go-to-tool-for-solving-daily-problems-taking-better-decisions/"}, {"topic": "Power of Marketing and Business Analytics \u2013 An Approach to Grow your Business Online from Scratch", "url": "https://www.analyticsvidhya.com/blog/2020/10/grow-business-online-scratch-power-marketing-business-analytics/"}, {"topic": "Ultimate Beginners Guide to Breaking into the Top 10% in Machine Learning Hackathons", "url": "https://www.analyticsvidhya.com/blog/2020/10/ultimate-beginners-guide-top-10-machine-learning-hackathons/"}, {"topic": "The Hidden Gems of Python \u2013 Libraries that make Data Science a Cakewalk", "url": "https://www.analyticsvidhya.com/blog/2020/10/the-hidden-gems-of-python-libraries-that-make-data-science-a-cakewalk/"}, {"topic": "Most Common Feature Selection Filter Based Techniques used in Machine Learning in Python", "url": "https://www.analyticsvidhya.com/blog/2020/10/what-are-some-of-the-most-common-feature-selection-filter-based-techniques-used-in-machine-learning-through-python/"}, {"topic": "Confusion Matrix Is No More A Confusion for Data Science Aspirants!", "url": "https://www.analyticsvidhya.com/blog/2020/10/confusion-matrix-is-no-more-a-confusion/"}, {"topic": "What Does Gradient Descent Actually Mean", "url": "https://www.analyticsvidhya.com/blog/2020/10/what-does-gradient-descent-actually-mean/"}, {"topic": "How to Improve Your Business With Exploratory Data Analysis!", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-to-improve-your-business-with-exploratory-data-analysis/"}, {"topic": "A Simple Explanation of K-Means Clustering", "url": "https://www.analyticsvidhya.com/blog/2020/10/a-simple-explanation-of-k-means-clustering/"}, {"topic": "Headstart to Plotting Graphs using Matplotlib library", "url": "https://www.analyticsvidhya.com/blog/2020/10/headstart-to-plotting-graphs-using-matplotlib-library/"}, {"topic": "Optimizing Exploratory Data Analysis using Functions in Python!", "url": "https://www.analyticsvidhya.com/blog/2020/10/optimizing-exploratory-data-analysis-using-functions-in-python/"}, {"topic": "The Data Science Blogathon is in Full Swing \u2013 Participate and Build your Brand!", "url": "https://www.analyticsvidhya.com/blog/2020/10/data-science-blogathon/"}, {"topic": "Predicting NYC AirBnB Rental Prices with TensorFlow", "url": "https://www.analyticsvidhya.com/blog/2020/10/predicting-nyc-airbnb-rental-prices-tensorflow/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "Space Weather Dashboard \u2013 Build Your Own Custom Dashboard to Analyze and Predict Space Weather", "url": "https://www.analyticsvidhya.com/blog/2020/10/space-weather-dashboard-build-your-own-custom-dashboard-to-analyze-and-predict-space-weather/"}, {"topic": "How Does the Gradient Descent Algorithm Work in Machine Learning?", "url": "https://www.analyticsvidhya.com/blog/2020/10/how-does-the-gradient-descent-algorithm-work-in-machine-learning/"}, {"topic": "Let\u2019s Solve Overfitting! Quick Guide to Cost Complexity Pruning of Decision Trees", "url": "https://www.analyticsvidhya.com/blog/2020/10/cost-complexity-pruning-decision-trees/"}, {"topic": "Introduction to Python Functions for Data Science Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/10/introduction-python-functions-data-science/"}, {"topic": "HackLive \u2013 Everything You Need to Get Started with Data Science Hackathons!", "url": "https://www.analyticsvidhya.com/blog/2020/10/hacklive-data-science-hackathons/"}, {"topic": "7 Feature Engineering Techniques in Machine Learning You Should Know", "url": "https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/"}, {"topic": "Hypothesis Generation for Data Science Projects \u2013 A Critical Problem Solving Step", "url": "https://www.analyticsvidhya.com/blog/2020/09/hypothesis-generation-data-science-projects/"}, {"topic": "How Machine Learning Models Fail to Deliver in Real-World Scenarios", "url": "https://www.analyticsvidhya.com/blog/2020/09/how-machine-learning-models-fail-real-world/"}, {"topic": "How I Became a Data Science Competition Master from Scratch", "url": "https://www.analyticsvidhya.com/blog/2020/09/how-i-became-a-data-science-competition-master/"}, {"topic": "A Quick History of Neural Networks", "url": "https://www.analyticsvidhya.com/blog/2020/09/quick-history-neural-networks/"}, {"topic": "What is AWS? Why Every Data Science Professional Should Learn Amazon Web Services", "url": "https://www.analyticsvidhya.com/blog/2020/09/what-is-aws-amazon-web-services-data-science/"}, {"topic": "10 Statistical Functions in Excel every Analytics Professional Should Know", "url": "https://www.analyticsvidhya.com/blog/2020/09/10-statistical-functions-excel-analytics/"}, {"topic": "Presenting HackLive \u2013 A Guided Community Hackathon by Analytics Vidhya\u2019s Data Science Experts!", "url": "https://www.analyticsvidhya.com/blog/2020/09/hacklive-community-guided-hackathon-data-science/"}, {"topic": "6 Key Points you Should Focus on for your Next Data Science Interview", "url": "https://www.analyticsvidhya.com/blog/2020/09/6-points-data-science-interview-preparation/"}, {"topic": "Time Series in Excel! Learn Exponential Smoothing Models for Time Series Forecasting in Excel", "url": "https://www.analyticsvidhya.com/blog/2020/09/time-series-forecasting-ms-excel-exponential-smoothing/"}, {"topic": "How to Rank Entities with Multi-Criteria Decision Making Methods(MCDM)", "url": "https://www.analyticsvidhya.com/blog/2020/09/how-to-rank-entities-with-multi-criteria-decision-making-methodsmcdm/"}, {"topic": "5 Popular NoSQL Databases Every Data Science Professional Should Know About", "url": "https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/"}, {"topic": "A Detailed Study of Self Supervised Contrastive Loss and Supervised Contrastive Loss", "url": "https://www.analyticsvidhya.com/blog/2020/09/a-detailed-study-of-self-supervised-contrastive-loss-and-supervised-contrastive-loss/"}, {"topic": "Alternative Hyperparameter Optimization Technique You need to Know \u2013 Hyperopt", "url": "https://www.analyticsvidhya.com/blog/2020/09/alternative-hyperparameter-optimization-technique-you-need-to-know-hyperopt/"}, {"topic": "5 Must-Watch Talks Before your Next Data Science Hackathon (featuring SRK, Dipanjan Sarkar, and more!)", "url": "https://www.analyticsvidhya.com/blog/2020/09/5-talks-data-science-hackathons/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}, {"topic": "How to create your AI Virtual Assistant using Python", "url": "https://www.analyticsvidhya.com/blog/2020/09/ai-virtual-assistant-using-python/"}, {"topic": "11 Easy-to-Achieve Steps to Transition into Data Science (for Reporting and BI Professionals!)", "url": "https://www.analyticsvidhya.com/blog/2020/09/11-steps-data-science-transition-reporting-mis-bi-professionals/"}, {"topic": "TensorFlow Object Detection \u2014 1.0 & 2.0: Train, Export, Optimize (TensorRT), Infer (Jetson Nano)", "url": "https://www.analyticsvidhya.com/blog/2020/09/tensorflow-object-detection-1-0-2-0-train-export-optimize-tensorrt-infer-jetson-nano/"}, {"topic": "Machine Learning in Cyber Security \u2014 Malicious Software Installation", "url": "https://www.analyticsvidhya.com/blog/2020/09/machine-learning-in-cyber-security-malicious-software-installation/"}, {"topic": "Pneumonia Detection using CNN with Implementation in Python", "url": "https://www.analyticsvidhya.com/blog/2020/09/pneumonia-detection-using-cnn-with-implementation-in-python/"}, {"topic": "Learning Database for Data Science Tutorial \u2013 Perform MongoDB Indexing using PyMongo", "url": "https://www.analyticsvidhya.com/blog/2020/09/mongodb-indexes-pymongo-tutorial/"}, {"topic": "Seam Carving Algorithm : A Seemingly Impossible Way of Resizing An Image", "url": "https://www.analyticsvidhya.com/blog/2020/09/seam-carving-algorithm-a-seemingly-impossible-way-to-resize-an-image/"}, {"topic": "All Aboard the Pandas Express \u2013 How to Speed up Data Preprocessing using Pandas in Python", "url": "https://www.analyticsvidhya.com/blog/2020/09/pandas-speed-up-preprocessing/"}, {"topic": "How to perform Blur Detection using OpenCV in Python", "url": "https://www.analyticsvidhya.com/blog/2020/09/how-to-perform-blur-detection-using-opencv-in-python/"}, {"topic": "How to Build a Sales Forecast using Microsoft Excel in Just 10 Minutes!", "url": "https://www.analyticsvidhya.com/blog/2020/09/how-to-build-forecast-excel/"}, {"topic": "Create your first Video Face Recognition app + Bonus (Happiness Recognition)", "url": "https://www.analyticsvidhya.com/blog/2020/09/create-your-first-video-face-recognition-app-bonus-happiness-recognition/"}, {"topic": "Start Using The timeit Library in Python!", "url": "https://www.analyticsvidhya.com/blog/2020/09/timeit-in-python/"}, {"topic": "When Graphic Designers Meet Matplotlib \u2013 Creating Colormaps using Matplotlib in Python", "url": "https://www.analyticsvidhya.com/blog/2020/09/colormaps-matplotlib/"}, {"topic": "10 Adventurous AI-Based TV Shows You Should Watch Next", "url": "https://www.analyticsvidhya.com/blog/2020/09/10-adventurous-data-science-tv-series/"}, {"topic": "Busted! 11 Data Science Myths You Should Avoid at All Costs", "url": "https://www.analyticsvidhya.com/blog/2020/09/11-data-science-myths/"}, {"topic": "Why GPUs are more suited for Deep Learning?", "url": "https://www.analyticsvidhya.com/blog/2020/09/why-gpus-are-more-suited-for-deep-learning/"}, {"topic": "18 All-Time Classic Open Source Computer Vision Projects for Beginners", "url": "https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/"}, {"topic": "Developing New Machine Learning Algorithm using OpenAI Gym", "url": "https://www.analyticsvidhya.com/blog/2020/09/developing-new-machine-learning-using-openai-gym/"}, {"topic": "How to Master the Popular DBSCAN Clustering Algorithm for Machine Learning", "url": "https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/"}, {"topic": "How to Treat Overfitting in Convolutional Neural Networks", "url": "https://www.analyticsvidhya.com/blog/2020/09/overfitting-in-cnn-show-to-treat-overfitting-in-convolutional-neural-networks/"}, {"topic": "Fake news classifier on US Election News | LSTM", "url": "https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"}, {"topic": "Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi", "url": "https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"}, {"topic": "10 Data Science Projects Every Beginner should add to their Portfolio", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"}, {"topic": "10 Most Popular Guest Authors on Analytics Vidhya in 2020", "url": "https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"}]}
+{
+    "blog_archive":[
+       {
+          "topic":"Using Predictive Power Score to Pinpoint Non-linear Correlations",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/using-predictive-power-score-to-pinpoint-non-linear-correlations/"
+       },
+       {
+          "topic":"Top 14 Artificial Intelligence Startups to watch out for in 2021!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-ai-startups/"
+       },
+       {
+          "topic":"Exploratory Analysis Using SPSS, Power BI, R Studio, Excel & Orange",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/exploratory-analysis-using-spss-power-bi-r-studio-excel-orange/"
+       },
+       {
+          "topic":"10 Most Popular Data Science Articles on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-data-science-articles-of-2020/"
+       },
+       {
+          "topic":"A Super Useful Month-by-Month Plan to Master Data Science in 2021",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-super-useful-month-by-month-plan-to-master-data-science-in-2021/"
+       },
+       {
+          "topic":"Top Highlights from 11 Powerful Machine Learning Conferences in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-ai-and-ml-conferences-of-2020/"
+       },
+       {
+          "topic":"Model Risk Management And the Role of Explainable Models(With Python Code)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/model-risk-management-and-the-role-of-explainable-modelswith-python-code/"
+       },
+       {
+          "topic":"A Quick Guide to Data science and Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-quick-guide-to-data-science-and-machine-learning/"
+       },
+       {
+          "topic":"Multilingualism in Natural Language Processing: Targeting Low Resource Indian Languages",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/multilingual-languages-in-natural-language-processing-targeting-low-resource-indian-languages/"
+       },
+       {
+          "topic":"A Review of 2020 and Trends in 2021 \u2013 A Technical Overview of Machine Learning and Deep Learning!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-review-of-2020-and-data-science-trends-in-2021-a-technical-overview-of-machine-learning-and-deep-learning/"
+       },
+       {
+          "topic":"Tutorial to data preparation for training machine learning model",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/tutorial-to-data-preparation-for-training-machine-learning-model/"
+       },
+       {
+          "topic":"Statistics for Beginners: Power of \u201cPower Analysis\u201d",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/statistics-for-beginners-power-of-power-analysis/"
+       },
+       {
+          "topic":"A Comprehensive Learning Path to Become a Data Scientist in 2021!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-comprehensive-learning-path-to-become-a-data-scientist-in-2021/"
+       },
+       {
+          "topic":"Top Female AI Influencers in 2020 Who Rocked the Data Science World!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-female-ai-influencers-in-2020/"
+       },
+       {
+          "topic":"An end-to-end comprehensive guide for PCA",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/an-end-to-end-comprehensive-guide-for-pca/"
+       },
+       {
+          "topic":"An Overview of Neural Approach on Pattern Recognition",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/an-overview-of-neural-approach-on-pattern-recognition/"
+       },
+       {
+          "topic":"Decluttering the performance measures of classification models",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/decluttering-the-performance-measures-of-classification-models/"
+       },
+       {
+          "topic":"Misguiding Deep Neural Networks: Generalized Pixel Attack",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/misguiding-deep-neural-networks-generalized-pixel-attack/"
+       },
+       {
+          "topic":"Understand Machine Learning and Its End-to-End Process",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/understand-machine-learning-and-its-end-to-end-process/"
+       },
+       {
+          "topic":"Top 15 Open-Source Datasets of 2020 that every Data Scientist Should add to their Portfolio!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/"
+       },
+       {
+          "topic":"Using Predictive Power Score to Pinpoint Non-linear Correlations",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/using-predictive-power-score-to-pinpoint-non-linear-correlations/"
+       },
+       {
+          "topic":"Top 14 Artificial Intelligence Startups to watch out for in 2021!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-ai-startups/"
+       },
+       {
+          "topic":"Exploratory Analysis Using SPSS, Power BI, R Studio, Excel & Orange",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/exploratory-analysis-using-spss-power-bi-r-studio-excel-orange/"
+       },
+       {
+          "topic":"10 Most Popular Data Science Articles on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-data-science-articles-of-2020/"
+       },
+       {
+          "topic":"Decluttering the performance measures of classification models",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/decluttering-the-performance-measures-of-classification-models/"
+       },
+       {
+          "topic":"Misguiding Deep Neural Networks: Generalized Pixel Attack",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/misguiding-deep-neural-networks-generalized-pixel-attack/"
+       },
+       {
+          "topic":"Understand Machine Learning and Its End-to-End Process",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/understand-machine-learning-and-its-end-to-end-process/"
+       },
+       {
+          "topic":"Top 15 Open-Source Datasets of 2020 that every Data Scientist Should add to their Portfolio!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/"
+       },
+       {
+          "topic":"Streamlit Web API for NLP: Tweet Sentiment Analysis",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/streamlit-web-api-for-nlp-tweet-sentiment-analysis/"
+       },
+       {
+          "topic":"Exploring the Tale of Music Through Data Visualization",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/exploring-the-tale-of-music-through-data-visualization/"
+       },
+       {
+          "topic":"Web Scraping Using Cypress Tool!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/web-scraping-using-cypress-tool/"
+       },
+       {
+          "topic":"Top 10 Data Science Webinars of 2020!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-10-data-science-webinars-recordings-of-2020/"
+       },
+       {
+          "topic":"All about Statistical Modeling",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/all-about-statistical-modeling/"
+       },
+       {
+          "topic":"An Approach towards Neural Network based Image Clustering",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/an-approach-towards-neural-network-based-image-clustering/"
+       },
+       {
+          "topic":"A Simple overview of Multilayer Perceptron(MLP)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/mlp-multilayer-perceptron-simple-overview/"
+       },
+       {
+          "topic":"Feature Engineering Using Pandas for Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/feature-engineering-using-pandas-for-beginners/"
+       },
+       {
+          "topic":"Big Data with Spark and Scala",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/big-data-with-spark-and-scala/"
+       },
+       {
+          "topic":"Machine Learning Model \u2013 Serverless Deployment",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/machine-learning-model-serverless-deployment/"
+       },
+       {
+          "topic":"9 Free Data Science Books to Read in 2021",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/14-free-data-science-books-to-add-tour-list-in-2020-to-upgrade-your-data-science-journey/"
+       },
+       {
+          "topic":"Pattern Recognition: The basis of Human and Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/patterns-recognition-the-basis-of-human-and-machine-learning/"
+       },
+       {
+          "topic":"Understanding text classification in NLP with Movie Review Example Example",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/understanding-text-classification-in-nlp-with-movie-review-example-example/"
+       },
+       {
+          "topic":"Top 15 Free Data Science Courses to Kick Start your Data Science Journey!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-15-free-data-science-courses-to-kick-start-your-data-science-journey/"
+       },
+       {
+          "topic":"Microsoft Azure Cognitive Services \u2013 API for AI Development",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/microsoft-azure-cognitive-services-api-for-ai-development/"
+       },
+       {
+          "topic":"Spilling the Beans on Visualizing Distribution",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/spilling-the-beans-on-visualizing-distribution/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster and Rank #21 Agnis Liukis",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmaster-series-exclusive-interview-with-competitions-grandmaster-and-rank-21-agnis-liukis/"
+       },
+       {
+          "topic":"A Brief Introduction to Survival Analysis and Kaplan Meier Estimator",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-brief-introduction-to-survival-analysis-and-kaplan-meier-estimator/"
+       },
+       {
+          "topic":"Out-of-Bag (OOB) Score in the Random Forest Algorithm",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/out-of-bag-oob-score-in-the-random-forest-algorithm/"
+       },
+       {
+          "topic":"An Academic Overview of Markov Chain",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/an-academic-overview-of-markov-chain/"
+       },
+       {
+          "topic":"Predicting using Linear Regression in R",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/predicting-using-linear-regression-in-r/"
+       },
+       {
+          "topic":"What I did when I had to work with unstructured data?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/what-i-did-when-i-had-to-work-with-unstructured-data/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Notebooks Grandmaster and Rank #2 Dan Becker\u2019s Data Science Journey!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmaster-series-notebooks-grandmaster-and-rank-2-dan-beckers-data-science-journey/"
+       },
+       {
+          "topic":"Top 8 Low code/No code ML Libraries every Data Scientist should know",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-8-low-code-no-code-ml-libraries-every-data-scientist-should-know/"
+       },
+       {
+          "topic":"Feature Engineering (Feature Improvements \u2013 Scaling)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/feature-engineering-feature-improvements-scaling/"
+       },
+       {
+          "topic":"Web Scraping Iron_Man Using Selenium in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/web-scraping-iron_man-using-selenium-in-python/"
+       },
+       {
+          "topic":"10 Resources to Successfully navigate a career in Data Science!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-resources-to-successfully-navigate-a-career-in-data-science/"
+       },
+       {
+          "topic":"Deploying machine learning models using Streamlit \u2013 An introductory guide to Model Deployment",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/deploying-machine-learning-models-using-streamlit-an-introductory-guide-to-model-deployment/"
+       },
+       {
+          "topic":"Hands-On Tutorial on Stack Overflow Question Tagging",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/hands-on-tutorial-on-stack-overflow-question-tagging/"
+       },
+       {
+          "topic":"Training StyleGAN using Transfer learning on a custom dataset in google colaboratory",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/training-stylegan-using-transfer-learning-on-a-custom-dataset-in-google-colaboratory/"
+       },
+       {
+          "topic":"A Quick Guide to Become a Data Analyst",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-quick-guide-to-become-a-data-analyst/"
+       },
+       {
+          "topic":"The Key Concepts To Investigating Your Dataset",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/the-key-concepts-to-investigate-your-dataset/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Andrey Lukyanenko (Notebooks and Discussions Grandmaster)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/exclusive-interview-with-andrey-lukyanenko/"
+       },
+       {
+          "topic":"Control the Mouse with your Head Pose using Deep Learning with Google Teachable Machine",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/deep-learning-with-google-teachable-machine/"
+       },
+       {
+          "topic":"Quick Guide To Perform Hypothesis Testing",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/quick-guide-to-perform-hypothesis-testing/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Notebooks Grandmaster and Rank #12 Martin Henze\u2019s Mind Blowing Journey!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmaster-series-notebooks-grandmaster-and-rank-12-martin-henzes-mind-blowing-journey/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"9 Must-Have Skills to Become a Data Engineer!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/9-must-have-skills-to-become-a-data-engineer/"
+       },
+       {
+          "topic":"Integrate R, Tableau and Excel",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/integrate-r-tableau-and-excel/"
+       },
+       {
+          "topic":"Lets Open the Black Box of Random Forests",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/lets-open-the-black-box-of-random-forests/"
+       },
+       {
+          "topic":"These 7 Signs Show you have Data Scientist Potential!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/these-7-signs-show-you-have-data-scientist-potential/"
+       },
+       {
+          "topic":"Improve your Predictive Model\u2019s Score using a Stacking Regressor",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/improve-predictive-model-score-stacking-regressor/"
+       },
+       {
+          "topic":"A Detailed Introduction to K-means Clustering in Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-detailed-introduction-to-k-means-clustering-in-python/"
+       },
+       {
+          "topic":"Window Functions \u2013 A Must-Know Topic for Data Engineers and Data Scientists",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/window-function-a-must-know-sql-concept/"
+       },
+       {
+          "topic":"How to accelerate Data Science job search in 2021",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/how-to-accelerate-data-science-job-search-in-2021/"
+       },
+       {
+          "topic":"Tired of Reading Long Articles? Text Summarization will make your task easier!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/tired-of-reading-long-articles-text-summarization-will-make-your-task-easier/"
+       },
+       {
+          "topic":"Analysis of Brazilian E-commerce Text Review Dataset Using NLP and Google Translate",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/analysis-of-brazilian-e-commerce-text-review-dataset-using-nlp-and-google-translate/"
+       },
+       {
+          "topic":"A Measure of Bias and Variance \u2013 An Experiment",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-measure-of-bias-and-variance-an-experiment/"
+       },
+       {
+          "topic":"Use of Machine Learning in Dairy farming",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/use-of-machine-learning-in-dairy-farming/"
+       },
+       {
+          "topic":"15 Basic And Highly Used Hive Queries that All Data Engineers Must know",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/15-basic-and-highly-used-hive-queries-that-all-data-engineers-must-know/"
+       },
+       {
+          "topic":"A Case Study To Detect Anomalies In Time Series Using Anomalize Package In R",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/a-case-study-to-detect-anomalies-in-time-series-using-anomalize-package-in-r/"
+       },
+       {
+          "topic":"Beginners Take: How Logistic Regression is related to Linear Regression",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/beginners-take-how-logistic-regression-is-related-to-linear-regression/"
+       },
+       {
+          "topic":"Accuracy and its shortcomings: Precision, Recall to the rescue",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/accuracy-and-its-shortcomings-precision-recall-to-the-rescue/"
+       },
+       {
+          "topic":"How can you Master Data Science without a Degree in 2020?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/how-can-you-master-data-science-without-a-degree-in-2020/"
+       },
+       {
+          "topic":"Popular Classification Models for Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/"
+       },
+       {
+          "topic":"Beginners Guide to Manipulating SQL from Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/manipulating-sql-from-python/"
+       },
+       {
+          "topic":"Interpreting P-Value and R Squared Score on Real-Time Data \u2013 Statistical Data Exploration",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/interpreting-p-value-and-r-squared-score-on-real-time-data-statistical-data-exploration/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"Nervous about your first data science project! Here are 6 easy steps to get started!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/nervous-about-your-first-data-science-project-here-are-6-easy-steps-to-get-started/"
+       },
+       {
+          "topic":"Stock Market Price Trend Prediction Using Time Series Forecasting",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/stock-market-price-trend-prediction-using-time-series-forecasting/"
+       },
+       {
+          "topic":"Exploring Linear Regression with H20 AutoML(Automated Machine Learning)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/exploring-linear-regression-with-h20-automlautomated-machine-learning/"
+       },
+       {
+          "topic":"Getting to Grips with Reinforcement Learning via Markov Decision Process",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/reinforcement-learning-markov-decision-process/"
+       },
+       {
+          "topic":"Understanding Na\u00efve Bayes and Support Vector Machine and their implementation in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/understanding-naive-bayes-svm-and-its-implementation-on-spam-sms/"
+       },
+       {
+          "topic":"Data Exploration with the dtale Library in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/data-exploration-dtale/"
+       },
+       {
+          "topic":"The Key Concept of Scrum in Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/the-key-concept-of-scrum-in-machine-learning/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Competitions Grandmaster and Rank #9 Dmitry Gordeev\u2019s Phenomenal Journey!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-dmitry-gordeev/"
+       },
+       {
+          "topic":"A Quick Guide to Text Cleaning Using the nltk Library",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/"
+       },
+       {
+          "topic":"Creating a Callback to Send Notifications on WhatsApp in Keras and TensorFlow",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/creating-a-callback-to-send-notifications-on-whatsapp-in-keras-and-tensorflow/"
+       },
+       {
+          "topic":"Extending the ImageDataGenerator in Keras and TensorFlow",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/extending-the-imagedatagenerator-keras-tensorflow/"
+       },
+       {
+          "topic":"8 Must Know Spark Optimization Tips for Data Engineering Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/8-must-know-spark-optimization-tips-for-data-engineering-beginners/"
+       },
+       {
+          "topic":"AutoML: Making AI more Accessible to Businesses",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/automl-making-ai-more-accessible-to-businesses/"
+       },
+       {
+          "topic":"How To Have a Career in Data Science (Business Analytics)?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/how-to-have-a-career-in-data-science-business-analytics/"
+       },
+       {
+          "topic":"Deployment of ML models in Cloud \u2013 AWS SageMaker\u200a(in-built algorithms)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/deployment-of-ml-models-in-cloud-aws-sagemaker%e2%80%8ain-built-algorithms/"
+       },
+       {
+          "topic":"Words that matter! A Simple Guide to Keyword Extraction in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/words-that-matter-a-simple-guide-to-keyword-extraction-in-python/"
+       },
+       {
+          "topic":"What is Big Data? A Quick Introduction for Analytics and Data Engineering Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/what-is-big-data-a-quick-introduction-for-analytics-and-data-engineering-beginners/"
+       },
+       {
+          "topic":"Creating Linear Model, It\u2019s Equation and Visualization for Analysis",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/creating-linear-model-its-equation-and-visualization-for-analysis/"
+       },
+       {
+          "topic":"Classification Model Simulator Application Using Dash in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/classification-model-simulator-application-using-dash-in-python/"
+       },
+       {
+          "topic":"FastAPI: The Right Replacement For Flask?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"Should I become a data scientist (or a business analyst)?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/become-data-scientist-business-analyst/"
+       },
+       {
+          "topic":"Data Engineering 101 \u2013 Getting Started with Python Operator in Apache Airflow",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/data-engineering-101-getting-started-with-python-operator-in-apache-airflow/"
+       },
+       {
+          "topic":"REINFORCE Algorithm: Taking baby steps in reinforcement learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/reinforce-algorithm-taking-baby-steps-in-reinforcement-learning/"
+       },
+       {
+          "topic":"A Tour of Evaluation Metrics for Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/a-tour-of-evaluation-metrics-for-machine-learning/"
+       },
+       {
+          "topic":"MLOps \u2013 the Why and the What",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/mlops-the-why-and-the-what/"
+       },
+       {
+          "topic":"Predicting Employee Attrition using Orange(.ows) Visual Programming Software",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/predicting-employee-attrition-using-orange-ows-visual-programming-software/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Notebooks Grandmaster Mobassir Hossen\u2019s Journey from Software Engineer to Data Science",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-exclusive-interview-with-kaggle-rank-44-and-notebooks-grandmaster-mobassir-hossen/"
+       },
+       {
+          "topic":"How to handle common Selenium Challenges Using Python?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/how-to-handle-common-selenium-challenges-using-python/"
+       },
+       {
+          "topic":"Tutorial \u2014 How to visualize Feature Maps directly from CNN layers",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/tutorial-how-to-visualize-feature-maps-directly-from-cnn-layers/"
+       },
+       {
+          "topic":"Want to Build a Career in Data Science? Learn from these 5 Data Science Videos!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/want-to-build-a-career-in-data-science-learn-from-these-5-data-science-videos/"
+       },
+       {
+          "topic":"A Hands-on Tutorial to Learn Attention Mechanism For Image Caption Generation in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/attention-mechanism-for-caption-generation/"
+       },
+       {
+          "topic":"Exclusive Interview with 2x Kaggle Master Gilles Vandewiele!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/exclusive-interview-with-gilles-vandekaggle-grandmaster-series-exclusive-interview-with-kaggle-rank-147-and-competitions-master-gilles-vandewielewiele/"
+       },
+       {
+          "topic":"Data Engineering 101 \u2013 Getting Started with Apache Airflow",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/getting-started-with-apache-airflow/"
+       },
+       {
+          "topic":"Top 13 Python Libraries Every Data science Aspirant Must know! (and their Resources)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/top-13-python-libraries-every-data-science-aspirant-must-know-and-their-resources/"
+       },
+       {
+          "topic":"A Beginner\u2019s Guide to Spark Streaming For Data Engineers",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/introduction-to-spark-streaming-add-new-tag/"
+       },
+       {
+          "topic":"A Must-Read Guide on How to Work with PySpark on Google Colab for Data Scientists!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/a-must-read-guide-on-how-to-work-with-pyspark-on-google-colab-for-data-scientists/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Kaggle Rank #8 and Competitions Grandmaster Ahmet Erdem",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-exclusive-interview-with-kaggle-rank-8-and-competitions-grandmaster-ahmet-erdem/"
+       },
+       {
+          "topic":"Introduction to Clustering in Python for Beginners in Data Science",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/introduction-to-clustering-in-python-for-beginners-in-data-science/"
+       },
+       {
+          "topic":"8 Thoughts on How to Transition into Data Science from Different Backgrounds",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/how-to-transition-data-science-different-backgrounds/"
+       },
+       {
+          "topic":"Fine-Grained Sentiment Analysis of Smartphone Review",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/fine-grained-sentiment-analysis-of-smartphone-review/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"14 Must-Have Skills to Become a Data Scientist (with Resources!)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/14-must-have-skills-to-become-a-data-scientist-with-resources/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with 2x Kaggle Grandmaster Firat Gonen",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/kaggle-grandmaster-series-exclusive-interview-with-2x-kaggle-grandmaster-firat-gonen/"
+       },
+       {
+          "topic":"Data Engineering for Beginners \u2013 Partitioning vs Bucketing in Apache Hive",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-partitioning-vs-bucketing-in-apache-hive/"
+       },
+       {
+          "topic":"Deep Unsupervised Learning in Energy Sector \u2013 Autoencoders in Action",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/deep-unsupervised-learning-in-energy-sector-autoencoders-in-action/"
+       },
+       {
+          "topic":"Introduction to Spark MLlib for Big Data and Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/introduction-to-spark-mllib-for-big-data-and-machine-learning/"
+       },
+       {
+          "topic":"Baseline for Policy Gradients that All Deep Learning Enthusists Must Know",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/baseline-for-policy-gradients/"
+       },
+       {
+          "topic":"A Guide to Data Types in MySQL for Data Science Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/guide-data-types-mysql-data-science-beginners/"
+       },
+       {
+          "topic":"Text Mining Simplified \u2013 IPL 2020 Tweet Analysis with R",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/text-mining-simplified-ipl-2020-tweet-analysis-with-r/"
+       },
+       {
+          "topic":"Demystifying Model Interpretation using ELI5",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/demystifying-model-interpretation-using-eli5/"
+       },
+       {
+          "topic":"Generate Carnatic Music with Google Magenta",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/generate-carnatic-music-with-google-magenta/"
+       },
+       {
+          "topic":"Data Engineering for Beginners \u2013 Difference Between OLTP and OLAP",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/oltp-vs-olap/"
+       },
+       {
+          "topic":"Binary Cross Entropy aka Log Loss-The cost function used in Logistic Regression",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/binary-cross-entropy-aka-log-loss-the-cost-function-used-in-logistic-regression/"
+       },
+       {
+          "topic":"Create a Pipeline to Perform Sentiment Analysis using NLP",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/create-a-pipeline-to-perform-sentiment-analysis-using-nlp/"
+       },
+       {
+          "topic":"Entropy \u2013 A Key Concept for All Data Science Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/entropy-a-key-concept-for-all-data-science-beginners/"
+       },
+       {
+          "topic":"Create Your Own Movie Movie Recommendation System",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/"
+       },
+       {
+          "topic":"Computer Vision: A Key Concept to Solve Many Problems Related to Image Data",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/computer-vision-a-key-concept-to-solve-many-problems-related-to-image-data/"
+       },
+       {
+          "topic":"An Efficient way of performing EDA- Hypothesis Generation",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation/"
+       },
+       {
+          "topic":"Writing a CSV File with Scala and Using it to Create a Machine Learning Model",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/writing-a-csv-file-with-scala-and-using-it-to-create-a-machine-learning-model/"
+       },
+       {
+          "topic":"How to Download, Install and Use Nvidia GPU for Training Deep Neural Networks by TensorFlow on Windows Seamlessly",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/how-to-download-install-and-use-nvidia-gpu-for-tensorflow-on-windows/"
+       },
+       {
+          "topic":"Handling Imbalanced Data \u2013 Machine Learning, Computer Vision and NLP",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/handling-imbalanced-data-machine-learning-computer-vision-and-nlp/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"A Short Intuitive Explanation of Convolutional Recurrent Neural Networks",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/a-short-intuitive-explanation-of-convolutional-recurrent-neural-networks/"
+       },
+       {
+          "topic":"Big Data to Small Data \u2013 Welcome to the World of Reservoir Sampling",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/big-data-to-small-data-welcome-to-the-world-of-reservoir-sampling/"
+       },
+       {
+          "topic":"A Comprehensive Step-by-Step Guide to Become an Industry-Ready Data Science Professional",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/comprehensive-guide-data-science-professional/"
+       },
+       {
+          "topic":"Data Engineering for Beginners \u2013 Get Acquainted with the Spark Architecture",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-get-acquainted-with-the-spark-architecture/"
+       },
+       {
+          "topic":"Hyperparameter Tuning using Optuna",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/hyperparameter-tuning-using-optuna/"
+       },
+       {
+          "topic":"Summarize Twitter Live data using Pretrained NLP models",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/summarize-twitter-live-data-using-pretrained-nlp-models/"
+       },
+       {
+          "topic":"RDDs vs. Dataframes vs. Datasets \u2013 What is the Difference and Why Should Data Engineers Care?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/what-is-the-difference-between-rdds-dataframes-and-datasets/"
+       },
+       {
+          "topic":"Lasso Regression causes sparsity while Ridge Regression doesn\u2019t! \u2013 Unfolding the math",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/lasso-regression-causes-sparsity-while-ridge-regression-doesnt-unfolding-the-math/"
+       },
+       {
+          "topic":"12 Essential Tips for People starting a Career in Data Science",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/tips-people-starting-career-data-science/"
+       },
+       {
+          "topic":"Artificial Intelligence in Agriculture : Using Modern Day AI to Solve Traditional Farming Problems",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/artificial-intelligence-in-agriculture-using-modern-day-ai-to-solve-traditional-farming-problems/"
+       },
+       {
+          "topic":"Create your Own Image Caption Generator using Keras!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/create-your-own-image-caption-generator-using-keras/"
+       },
+       {
+          "topic":"Top 5 Statistical Concepts Every Data Scientist Should Know in 2020!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/top-5-favorite-statistical-concepts/"
+       },
+       {
+          "topic":"Methods in Python \u2013 A Key Concept of Object Oriented Programming",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/basic-concepts-object-oriented-programming-types-methods-python/"
+       },
+       {
+          "topic":"Basic Introduction to Google BigQuery and Data Studio Every Data Scientist Should Know!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/basic-introduction-to-google-bigquery-and-data-studio-every-data-scientist-should-know/"
+       },
+       {
+          "topic":"Build Your Own Desktop Voice Assistant in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/build-your-own-desktop-voice-assistant-in-python/"
+       },
+       {
+          "topic":"Apache Kafka: A Metaphorical Introduction to Event Streaming for Data Scientists and Data Engineers",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/apache-kafka-introduction-to-event-streaming/"
+       },
+       {
+          "topic":"A Primer on Getting Started with Data Science for Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/a-primer-on-getting-started-with-data-science-for-beginners/"
+       },
+       {
+          "topic":"A Comprehensive Guide to Learn Data Exploration in Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/a-comprehensive-guide-to-learn-the-data-exploration-in-python/"
+       },
+       {
+          "topic":"Getting Started with Analytics: Data Challenges",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/getting-started-with-analytics-data-challenges/"
+       },
+       {
+          "topic":"Employee Attrition Analysis using Logistic Regression with R",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/employee-attrition-analysis-using-logistic-regression-with-r/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"How Can You Build a Career in Data Science and Machine Learning?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/11/how-can-you-build-a-career-in-data-science-machine-learning/"
+       },
+       {
+          "topic":"Simple Text Multi Classification Task Using Keras BERT",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/simple-text-multi-classification-task-using-keras-bert/"
+       },
+       {
+          "topic":"How to Use Stacking to Choose the Best Possible Algorithm?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-to-use-stacking-to-choose-the-best-possible-algorithm/"
+       },
+       {
+          "topic":"Linear Regression for Absolute Beginners with Implementation in Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/"
+       },
+       {
+          "topic":"A Comprehensive List of the Different Python Data Types",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/python-data-types/"
+       },
+       {
+          "topic":"Do you need a Certification to become a Data Scientist? 5 Things you Should Consider",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/data-science-certification-need-5-things-consider/"
+       },
+       {
+          "topic":"Data Engineering 101 \u2013 Data Sources in Apache Spark Every Data Engineer Must Know!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/data-engineering-101-data-sources-apache-spark/"
+       },
+       {
+          "topic":"Reduce the Complexity of Your Data With Variable Clustering from Scratch Using SAS and Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/reduce-the-complexity-of-you-data-with-variable-clustering-from-scratch-using-sas-and-python/"
+       },
+       {
+          "topic":"A Definitive Guide for predicting Customer Lifetime Value (CLV)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/a-definitive-guide-for-predicting-customer-lifetime-value-clv/"
+       },
+       {
+          "topic":"NLP Applications in Support Call Centers",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/nlp-applications-in-support-call-centers/"
+       },
+       {
+          "topic":"5 Popular Data Science Languages \u2013 Which One Should you Choose for your Career?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/5-popular-data-science-languages-career/"
+       },
+       {
+          "topic":"Multivariate Multi-step Time Series Forecasting using Stacked LSTM sequence to sequence Autoencoder in Tensorflow 2.0 / Keras",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/multivariate-multi-step-time-series-forecasting-using-stacked-lstm-sequence-to-sequence-autoencoder-in-tensorflow-2-0-keras/"
+       },
+       {
+          "topic":"How to Create an ARIMA Model for Time Series Forecasting in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-to-create-an-arima-model-for-time-series-forecasting-in-python/"
+       },
+       {
+          "topic":"Move to Online Dashboards \u2013 6 Things to remember before you choose a tool!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/move-to-online-dashboards-6-things-to-remember-before-you-choose-a-tool/"
+       },
+       {
+          "topic":"Mastering the Itertools Module in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/mastering-the-itertools-module-in-python/"
+       },
+       {
+          "topic":"Predicting Stock Prices using Reinforcement Learning (with Python Code!)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/reinforcement-learning-stock-price-prediction/"
+       },
+       {
+          "topic":"Hadoop Distributed File System (HDFS) Architecture \u2013 A Guide to HDFS for Every Data Engineer",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/hadoop-distributed-file-system-hdfs-architecture-a-guide-to-hdfs-for-every-data-engineer/"
+       },
+       {
+          "topic":"Getting Started with Apache Hive \u2013 A Must Know Tool For all Big Data and Data Engineering Professionals",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/getting-started-with-apache-hive/"
+       },
+       {
+          "topic":"What is the Convolutional Neural Network Architecture?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/what-is-the-convolutional-neural-network-architecture/"
+       },
+       {
+          "topic":"Virtual Reality for the Web: A-Frame(Creating 3D models from Images)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/virtual-reality-for-the-web-a-framecreating-3d-models-from-images/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"Evaluating the Quality of Education in India using Unsupervised Machine Learning Technique",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/evaluating-the-quality-of-education-in-india-using-clustering/"
+       },
+       {
+          "topic":"A/B Testing for Data Science using Python \u2013 A Must-Read Guide for Data Scientists",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/"
+       },
+       {
+          "topic":"Web Scraping for Beginners \u2013 Web Scraping Using Node JS!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/web-scraping-using-node-js/"
+       },
+       {
+          "topic":"AdaBoost and Gradient Boost \u2013 Comparitive Study Between 2 Popular Ensemble Model Techniques",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/"
+       },
+       {
+          "topic":"Beginners Guide to Web Scraping Using Selenium in Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/web-scraping-selenium-in-python/"
+       },
+       {
+          "topic":"How Can You Optimize your Spark Jobs and Attain Efficiency \u2013 Tips and Tricks!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-can-you-optimize-your-spark-jobs-and-attain-efficiency-tips-and-tricks/"
+       },
+       {
+          "topic":"Inheritance in Object Oriented Programming for Python \u2013 An In-Depth Guide for Everyone",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/inheritance-object-oriented-programming/"
+       },
+       {
+          "topic":"Sweet, spicy, North or South? : Indian Cuisine Analysis",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/sweet-spicy-north-or-south-indian-cuisine-analysis/"
+       },
+       {
+          "topic":"Dimensionality Reduction using Factor Analysis in Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/dimensionality-reduction-using-factor-analysis-in-python/"
+       },
+       {
+          "topic":"Accumulated Local Effects (ALE) \u2013 Feature Effects Global Interpretability",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/accumulated-local-effects-ale-feature-effects-global-interpretability/"
+       },
+       {
+          "topic":"Bet Wisely: Predicting the Scoreline of a Football Match using Poisson Distribution",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/predicting-the-scoreline-of-a-football-match-using-poisson-distribution/"
+       },
+       {
+          "topic":"Unveiling the Black Box model using Explainable AI(Lime, Shap) Industry use case.",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/unveiling-the-black-box-model-using-explainable-ai-lime-shap-industry-use-case/"
+       },
+       {
+          "topic":"A comprehensive guide to Feature Selection using Wrapper methods in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/"
+       },
+       {
+          "topic":"Time Series Forecasting using Facebook Prophet library in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/time-series-forecasting-using-facebook-prophet-library-in-python/"
+       },
+       {
+          "topic":"Introduction to the Hadoop Ecosystem for Big Data and Data Engineering",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/introduction-hadoop-ecosystem/"
+       },
+       {
+          "topic":"Types of Tables in Apache Hive \u2013 A Quick Overview",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/apache-hive-table-types/"
+       },
+       {
+          "topic":"The Mathematics Behind Support Vector Machine Algorithm (SVM)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/the-mathematics-behind-svm/"
+       },
+       {
+          "topic":"10 Questions Every Data Science Beginner Asks (with Answers and Resources)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/10-questions-asked-data-science-beginner/"
+       },
+       {
+          "topic":"Introduction and Implementation to Neural Style Transfer \u2013 Deep Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/introduction-and-implementation-to-neural-style-transfer-deep-learning/"
+       },
+       {
+          "topic":"Perform Regression Analysis with PyTorch Seamlessly!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/perform-regression-analysis-with-pytorch-seamlessly/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"What are the differences between Data Lake and Data Warehouse?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/what-is-the-difference-between-data-lake-and-data-warehouse/"
+       },
+       {
+          "topic":"Examining the Simple Linear Regression method for forecasting stock prices using Excel",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/examining-the-simple-linear-regression-method-for-forecasting-stock-prices-using-excel/"
+       },
+       {
+          "topic":"Data Science Blogathon Winners are Here and Announcing Blogathon 2!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/data-science-blogathon-winners-announcing-blogathon-2/"
+       },
+       {
+          "topic":"8 Things you Absolutely Should Know Before Starting your Data Science Career",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/8-things-data-science-career-know/"
+       },
+       {
+          "topic":"Generate Background Blur using Deep Learning in Python with this Simple Tutorial",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-to-get-background-blur-using-deep-learning/"
+       },
+       {
+          "topic":"SQL vs NoSQL Databases \u2013 A Key Concept Every Data Engineer Should Know",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/sql-vs-nosql-databases-a-key-concept-every-data-engineer-should-know/"
+       },
+       {
+          "topic":"Create your Own Image Classification Model using Python and Keras",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/"
+       },
+       {
+          "topic":"12 Powerful Tips to Ace Data Science and Machine Learning Hackathons",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/12-powerful-tips-ace-data-science-hackathons/"
+       },
+       {
+          "topic":"Build an End to End Image Classification/Recognition Application",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/building-an-end-to-end-image-classification-recognition-application/"
+       },
+       {
+          "topic":"The Power of Azure ML and Power BI: Dataflows and Model Deployment",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/azure-ml-and-power-bi/"
+       },
+       {
+          "topic":"Step by Step Guide for Deploying a Django Application using Heroku for Free",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/step-by-step-guide-for-deploying-a-django-application-using-heroku-for-free/"
+       },
+       {
+          "topic":"Getting Started with Analytics in your Organization: Think Big, Start Small",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/getting-started-with-analytics-in-your-organization-think-big-start-small/"
+       },
+       {
+          "topic":"Big Announcement: 4 Free Certificate Courses in Data Science and Machine Learning by Analytics Vidhya!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/4-free-certificate-courses-data-science-machine-learning-analytics-vidhya/"
+       },
+       {
+          "topic":"Demystification of Logistic Regression",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/demystification-of-logistic-regression/"
+       },
+       {
+          "topic":"Modernize Support Logs Using Simple Python Commands",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/modernize-support-logs-using-simple-python-commands/"
+       },
+       {
+          "topic":"Sanitizing the Data \u2013 Merging Disparate Data Sources on Common Categories",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/sanitizing-the-data-merging-disparate-data-sources-on-common-categories/"
+       },
+       {
+          "topic":"Elon Musk AI Text Generator with LSTMs in Tensorflow 2",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/elon-musk-ai-text-generator-with-lstms-in-tensorflow-2/"
+       },
+       {
+          "topic":"Ultimate Beginner\u2019s Guide to Win Classification Hackathons with a Data Science Use Case",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/ultimate-beginners-guide-to-win-classification-hackathons-with-a-data-science-use-case/"
+       },
+       {
+          "topic":"Create a Word Cloud or Tag Cloud in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/word-cloud-or-tag-cloud-in-python/"
+       },
+       {
+          "topic":"Quick Guide to Evaluation Metrics for Supervised and Unsupervised Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/quick-guide-to-evaluation-metrics-for-supervised-and-unsupervised-machine-learning/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"What does not get discussed about analysis: Chaos to order",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/what-does-not-get-discussed-about-analysis-chaos-to-order/"
+       },
+       {
+          "topic":"How to Choose Evaluation Metrics for Classification Models",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-to-choose-evaluation-metrics-for-classification-model/"
+       },
+       {
+          "topic":"The Clever Ingredient that decides the rise and the fall of your Machine Learning Model- Exploratory Data Analysis",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/the-clever-ingredient-that-decide-the-rise-and-the-fall-of-your-machine-learning-model-exploratory-data-analysis/"
+       },
+       {
+          "topic":"Python 3.9 is out! Explore 7 Exciting Python 3.9 Features That You Should Know",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/7-exciting-python-3-9-feature-to-know/"
+       },
+       {
+          "topic":"Feature Selection Techniques in Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/"
+       },
+       {
+          "topic":"The Complete Guide to Checking Account Churn Prediction in BFSI Domain",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/the-complete-guide-to-checking-account-churn-prediction-in-bfsi-domain/"
+       },
+       {
+          "topic":"Introduction to Logistic Regression \u2013 The Most Common Classification Algorithm",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/introduction-to-logistic-regression-the-most-common-classification-algorithm/"
+       },
+       {
+          "topic":"Transferable Skills for Building Data Application",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/transferable-skills-for-building-data-application/"
+       },
+       {
+          "topic":"35 Classic Excel Hacks, Tips and Tricks for Analytics Professionals on Excel\u2019s 35th Birthday!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/35-classic-excel-hacks-tips-and-tricks-for-analytics-professionals-on-excels-35th-birthday/"
+       },
+       {
+          "topic":"Create Interactive Dashboards with Streamlit and Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/create-interactive-dashboards-with-streamlit-and-python/"
+       },
+       {
+          "topic":"Welcome to Pywedge \u2013 A Fast Guide to Preprocess and Build Baseline Models",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/welcome-to-pywedge-a-fast-guide-to-preprocess-and-build-baseline-models/"
+       },
+       {
+          "topic":"Complete R Tutorial To Build Probabilistic Graphical Models!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/complete-r-tutorial-to-build-probabilistic-graphical-models/"
+       },
+       {
+          "topic":"How to Deploy Machine Learning models in Azure Cloud with the help of Python and Flask?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-to-deploy-machine-learning-models-in-azure-cloud-with-the-help-of-python-and-flask/"
+       },
+       {
+          "topic":"Develop and Deploy an Image Classifier App Using Fastai",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/develop-and-deploy-an-image-classifier-app-using-fastai/"
+       },
+       {
+          "topic":"Recurrent Neural Networks for Sequence Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/recurrent-neural-networks-for-sequence-learning/"
+       },
+       {
+          "topic":"Exploratory Data Analysis \u2013 The Go-To Technique to Explore Your Data!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/exploratory-data-analysis-the-go-to-technique-to-explore-your-data/"
+       },
+       {
+          "topic":"Boost Model Accuracy of Imbalanced COVID-19 Mortality Prediction Using GAN-based Oversampling Technique",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/lets-improve-the-model-accuracy-of-imbalanced-covid-19-mortality-prediction-using-generative-adversarial-networks-gan-based-oversampling-technique/"
+       },
+       {
+          "topic":"Getting Started with Feature Engineering",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/getting-started-with-feature-engineering/"
+       },
+       {
+          "topic":"Boxing and Unboxing of Statistical Models with Gaussian Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/boxing-and-unboxing-of-statistical-models-with-gaussian-learning/"
+       },
+       {
+          "topic":"All About Decision Tree from Scratch with Python Implementation",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"Using Predictive Power Score to Pinpoint Non-linear Correlations",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/using-predictive-power-score-to-pinpoint-non-linear-correlations/"
+       },
+       {
+          "topic":"Top 14 Artificial Intelligence Startups to watch out for in 2021!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/top-ai-startups/"
+       },
+       {
+          "topic":"Boxing and Unboxing of Statistical Models with Gaussian Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/boxing-and-unboxing-of-statistical-models-with-gaussian-learning/"
+       },
+       {
+          "topic":"All About Decision Tree from Scratch with Python Implementation",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/"
+       },
+       {
+          "topic":"Bajaj Finance Stock Price Prediction in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/bajaj-finance-stock-price-prediction-time-series/"
+       },
+       {
+          "topic":"A Quick Guide to Descriptive Statistical Analysis \u2013 The First Step in Exploring your Data",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/a-quick-guide-to-descriptive-statistics-the-first-step-in-exploring-your-data/"
+       },
+       {
+          "topic":"How to Improve Class Imbalance using Class Weights in Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/"
+       },
+       {
+          "topic":"Overcoming Class Imbalance using SMOTE Techniques",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/"
+       },
+       {
+          "topic":"A Hands-On Guide to Building a Visual Similarity-Based Recommendation System using Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/visual-similarity-based-recommendations-python/"
+       },
+       {
+          "topic":"Data Science- The Go-To Tool for Solving Daily Problems and Taking Better Decisions",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/data-science-the-go-to-tool-for-solving-daily-problems-taking-better-decisions/"
+       },
+       {
+          "topic":"Power of Marketing and Business Analytics \u2013 An Approach to Grow your Business Online from Scratch",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/grow-business-online-scratch-power-marketing-business-analytics/"
+       },
+       {
+          "topic":"Ultimate Beginners Guide to Breaking into the Top 10% in Machine Learning Hackathons",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/ultimate-beginners-guide-top-10-machine-learning-hackathons/"
+       },
+       {
+          "topic":"The Hidden Gems of Python \u2013 Libraries that make Data Science a Cakewalk",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/the-hidden-gems-of-python-libraries-that-make-data-science-a-cakewalk/"
+       },
+       {
+          "topic":"Most Common Feature Selection Filter Based Techniques used in Machine Learning in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/what-are-some-of-the-most-common-feature-selection-filter-based-techniques-used-in-machine-learning-through-python/"
+       },
+       {
+          "topic":"Confusion Matrix Is No More A Confusion for Data Science Aspirants!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/confusion-matrix-is-no-more-a-confusion/"
+       },
+       {
+          "topic":"What Does Gradient Descent Actually Mean",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/what-does-gradient-descent-actually-mean/"
+       },
+       {
+          "topic":"How to Improve Your Business With Exploratory Data Analysis!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-to-improve-your-business-with-exploratory-data-analysis/"
+       },
+       {
+          "topic":"A Simple Explanation of K-Means Clustering",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/a-simple-explanation-of-k-means-clustering/"
+       },
+       {
+          "topic":"Headstart to Plotting Graphs using Matplotlib library",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/headstart-to-plotting-graphs-using-matplotlib-library/"
+       },
+       {
+          "topic":"Optimizing Exploratory Data Analysis using Functions in Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/optimizing-exploratory-data-analysis-using-functions-in-python/"
+       },
+       {
+          "topic":"The Data Science Blogathon is in Full Swing \u2013 Participate and Build your Brand!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/data-science-blogathon/"
+       },
+       {
+          "topic":"Predicting NYC AirBnB Rental Prices with TensorFlow",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/predicting-nyc-airbnb-rental-prices-tensorflow/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"Space Weather Dashboard \u2013 Build Your Own Custom Dashboard to Analyze and Predict Space Weather",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/space-weather-dashboard-build-your-own-custom-dashboard-to-analyze-and-predict-space-weather/"
+       },
+       {
+          "topic":"How Does the Gradient Descent Algorithm Work in Machine Learning?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/how-does-the-gradient-descent-algorithm-work-in-machine-learning/"
+       },
+       {
+          "topic":"Let\u2019s Solve Overfitting! Quick Guide to Cost Complexity Pruning of Decision Trees",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/cost-complexity-pruning-decision-trees/"
+       },
+       {
+          "topic":"Introduction to Python Functions for Data Science Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/introduction-python-functions-data-science/"
+       },
+       {
+          "topic":"HackLive \u2013 Everything You Need to Get Started with Data Science Hackathons!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/hacklive-data-science-hackathons/"
+       },
+       {
+          "topic":"7 Feature Engineering Techniques in Machine Learning You Should Know",
+          "url":"https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/"
+       },
+       {
+          "topic":"Hypothesis Generation for Data Science Projects \u2013 A Critical Problem Solving Step",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/hypothesis-generation-data-science-projects/"
+       },
+       {
+          "topic":"How Machine Learning Models Fail to Deliver in Real-World Scenarios",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/how-machine-learning-models-fail-real-world/"
+       },
+       {
+          "topic":"How I Became a Data Science Competition Master from Scratch",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/how-i-became-a-data-science-competition-master/"
+       },
+       {
+          "topic":"A Quick History of Neural Networks",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/quick-history-neural-networks/"
+       },
+       {
+          "topic":"What is AWS? Why Every Data Science Professional Should Learn Amazon Web Services",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/what-is-aws-amazon-web-services-data-science/"
+       },
+       {
+          "topic":"10 Statistical Functions in Excel every Analytics Professional Should Know",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/10-statistical-functions-excel-analytics/"
+       },
+       {
+          "topic":"Presenting HackLive \u2013 A Guided Community Hackathon by Analytics Vidhya\u2019s Data Science Experts!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/hacklive-community-guided-hackathon-data-science/"
+       },
+       {
+          "topic":"6 Key Points you Should Focus on for your Next Data Science Interview",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/6-points-data-science-interview-preparation/"
+       },
+       {
+          "topic":"Time Series in Excel! Learn Exponential Smoothing Models for Time Series Forecasting in Excel",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/time-series-forecasting-ms-excel-exponential-smoothing/"
+       },
+       {
+          "topic":"How to Rank Entities with Multi-Criteria Decision Making Methods(MCDM)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/how-to-rank-entities-with-multi-criteria-decision-making-methodsmcdm/"
+       },
+       {
+          "topic":"5 Popular NoSQL Databases Every Data Science Professional Should Know About",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/"
+       },
+       {
+          "topic":"A Detailed Study of Self Supervised Contrastive Loss and Supervised Contrastive Loss",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/a-detailed-study-of-self-supervised-contrastive-loss-and-supervised-contrastive-loss/"
+       },
+       {
+          "topic":"Alternative Hyperparameter Optimization Technique You need to Know \u2013 Hyperopt",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/alternative-hyperparameter-optimization-technique-you-need-to-know-hyperopt/"
+       },
+       {
+          "topic":"5 Must-Watch Talks Before your Next Data Science Hackathon (featuring SRK, Dipanjan Sarkar, and more!)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/5-talks-data-science-hackathons/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       },
+       {
+          "topic":"How to create your AI Virtual Assistant using Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/ai-virtual-assistant-using-python/"
+       },
+       {
+          "topic":"11 Easy-to-Achieve Steps to Transition into Data Science (for Reporting and BI Professionals!)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/11-steps-data-science-transition-reporting-mis-bi-professionals/"
+       },
+       {
+          "topic":"TensorFlow Object Detection \u2014 1.0 & 2.0: Train, Export, Optimize (TensorRT), Infer (Jetson Nano)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/tensorflow-object-detection-1-0-2-0-train-export-optimize-tensorrt-infer-jetson-nano/"
+       },
+       {
+          "topic":"Machine Learning in Cyber Security \u2014 Malicious Software Installation",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/machine-learning-in-cyber-security-malicious-software-installation/"
+       },
+       {
+          "topic":"Pneumonia Detection using CNN with Implementation in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/pneumonia-detection-using-cnn-with-implementation-in-python/"
+       },
+       {
+          "topic":"Learning Database for Data Science Tutorial \u2013 Perform MongoDB Indexing using PyMongo",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/mongodb-indexes-pymongo-tutorial/"
+       },
+       {
+          "topic":"Seam Carving Algorithm : A Seemingly Impossible Way of Resizing An Image",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/seam-carving-algorithm-a-seemingly-impossible-way-to-resize-an-image/"
+       },
+       {
+          "topic":"All Aboard the Pandas Express \u2013 How to Speed up Data Preprocessing using Pandas in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/pandas-speed-up-preprocessing/"
+       },
+       {
+          "topic":"How to perform Blur Detection using OpenCV in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/how-to-perform-blur-detection-using-opencv-in-python/"
+       },
+       {
+          "topic":"How to Build a Sales Forecast using Microsoft Excel in Just 10 Minutes!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/how-to-build-forecast-excel/"
+       },
+       {
+          "topic":"Create your first Video Face Recognition app + Bonus (Happiness Recognition)",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/create-your-first-video-face-recognition-app-bonus-happiness-recognition/"
+       },
+       {
+          "topic":"Start Using The timeit Library in Python!",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/timeit-in-python/"
+       },
+       {
+          "topic":"When Graphic Designers Meet Matplotlib \u2013 Creating Colormaps using Matplotlib in Python",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/colormaps-matplotlib/"
+       },
+       {
+          "topic":"10 Adventurous AI-Based TV Shows You Should Watch Next",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/10-adventurous-data-science-tv-series/"
+       },
+       {
+          "topic":"Busted! 11 Data Science Myths You Should Avoid at All Costs",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/11-data-science-myths/"
+       },
+       {
+          "topic":"Why GPUs are more suited for Deep Learning?",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/why-gpus-are-more-suited-for-deep-learning/"
+       },
+       {
+          "topic":"18 All-Time Classic Open Source Computer Vision Projects for Beginners",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/"
+       },
+       {
+          "topic":"Developing New Machine Learning Algorithm using OpenAI Gym",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/developing-new-machine-learning-using-openai-gym/"
+       },
+       {
+          "topic":"How to Master the Popular DBSCAN Clustering Algorithm for Machine Learning",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/"
+       },
+       {
+          "topic":"How to Treat Overfitting in Convolutional Neural Networks",
+          "url":"https://www.analyticsvidhya.com/blog/2020/09/overfitting-in-cnn-show-to-treat-overfitting-in-convolutional-neural-networks/"
+       },
+       {
+          "topic":"Fake news classifier on US Election News | LSTM",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/fake-news-classifier-on-us-election-news%f0%9f%93%b0-lstm-%f0%9f%88%9a/"
+       },
+       {
+          "topic":"Kaggle Grandmaster Series \u2013 Exclusive Interview with Competitions Grandmaster Dmytro Danevskyi",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/kaggle-grandmasters-series-exclusive-interview-with-competitions-grandmaster-and-rank-67-dmytro-danevskyi/"
+       },
+       {
+          "topic":"10 Data Science Projects Every Beginner should add to their Portfolio",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/"
+       },
+       {
+          "topic":"10 Most Popular Guest Authors on Analytics Vidhya in 2020",
+          "url":"https://www.analyticsvidhya.com/blog/2020/12/10-most-popular-guest-authors-on-analytics-vidhya-in-2020/"
+       }
+    ]
+ }
