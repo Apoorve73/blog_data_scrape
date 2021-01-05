@@ -1,0 +1,9 @@
+#Virtual Environment
+venv/
+
+#Pycharm env
+analytics-vidhya-scrape/.idea/
+
+#ChromeDriver
+chromedriver
+
