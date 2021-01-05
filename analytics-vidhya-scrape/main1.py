@@ -129,4 +129,4 @@ def get_data(path):
 
     driver.quit()
 
-get_data('../chromedriver')
+get_data('../chromedriver_linux/chromedriver')

@@ -136,4 +136,4 @@ def get_structure(path):
 	driver.quit()
 
 
-get_structure('../chromedriver')
+get_structure('../chromedriver_linux/chromedriver')
